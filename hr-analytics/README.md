@@ -1,7 +1,7 @@
 # HR Analytics Dashboard — README
 
 **Project:** Power BI HR Analytics & Workforce Performance Dashboard  
-**Client (fictional):** UpTime Solutions — Global Tech & Finance Enterprise  
+**Client (fictional):** Global Tech Enterprise  
 **Author:** Oksana K.  
 **Last updated:** September 2026  
 **Data range:** January 2022 – December 2026  
@@ -10,7 +10,7 @@
 
 ## Overview
 
-This Power BI dashboard was built as a portfolio project simulating a real-world enterprise BI engagement for **UpTime Solutions**. It tracks core human resources metrics including headcount dynamics, recruitment funnel efficiency, and early employee attrition patterns.
+This Power BI dashboard was built as a portfolio project simulating a real-world enterprise BI engagement for fictional company. It tracks core human resources metrics including headcount dynamics, recruitment funnel efficiency, and early employee attrition patterns.
 
 Instead of just importing flat files, the real challenge of this project was engineering a robust, **enterprise-level data pipeline**. The backend architecture connects a simulated on-premises transactional database environment directly to cloud reporting layers using automated gateway syncs.
 
@@ -25,21 +25,6 @@ Instead of just importing flat files, the real challenge of this project was eng
 | 3 | Attrition & Turnover | Retention rates, early attrition dynamics (< 1 year), financial cost of turnover, and departmental summaries |
 | 4 | Employee Profile | Granular card view detailing individual contract types, manager routing, skills certifications, and onboarding milestones |
 
----
-
-## Data Sources
-
-The corporate HR ecosystem data is fully relational and moves through a modern data engineering pipeline:
-
-| Source Name | Content | Type / Format |
-|---|---|---|
-| `python_gen_script.py` | Python script containing business logic to generate synthetic HR data | Raw Code Script |
-| `ft_employee_history` | Transactional table recording hiring, status changes, and promotions | PostgreSQL Database Table |
-| `ft_recruitment_pipeline`| Job opening statuses, application dates, and closing milestone data | PostgreSQL Database Table |
-| `ft_employee_certifications`| Individual employee compliance, technical skills, and exam certifications | PostgreSQL Database Table |
-| `dim_employees` | Core employee master data (names, contact info, job title, manager maps) | PostgreSQL Database Table |
-| `dim_departments` | Organizational structure details (department names, regional business units) | PostgreSQL Database Table |
-| `dim_calendar` | Standard calendar dimension supporting advanced time-intelligence | Calculated in Power BI (DAX) |
 
 ---
 
@@ -60,9 +45,11 @@ To practice real-world data infrastructure engineering, I chose a complex archit
 4. **Cloud Infrastructure:** Pushed data directly into **Power BI Service / Microsoft Fabric**, consolidating the tables into a single centralized **Semantic Model** to act as the single source of truth.
 5. **Visualization Layer:** Connected Power BI Desktop directly to the cloud semantic model via Live Connection to author the visuals.
 
+💡 *Portfolio Note: For cloud security reasons, anonymous web embedding is restricted for active Live Fabric capacities. Therefore, this specific public **interactive version** has been converted into a **Import Mode model**, maintaining 100% of the original data structure.*
+
 ---
 
-## Key Insights I Found
+## Key Insights 
 
 ### 📈 Workforce & Talent Baseline
 *   **Active Talent Volume:** The organization maintains a robust core of **445 active employees** out of a total historic pool of 498, with **60 individuals** successfully navigating their probation periods (+22.45% YoY growth).
@@ -80,7 +67,7 @@ To practice real-world data infrastructure engineering, I chose a complex archit
 
 ---
 
-## Known Data Issues & Constraints
+## Privacy & Fake Data Disclaimer (GDPR-Safe)
 
 | Issue | Description |
 |-----|---|

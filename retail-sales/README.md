@@ -101,17 +101,18 @@ All `_CP` (Current Period) measures use `DATESBETWEEN` + `REMOVEFILTERS('dmDataT
 📸 **Screenshots of all dashboard pages**
 
 ### 1. Executive Summary
-<img width="100%" alt="1  Executive Summary" src="https://github.com/user-attachments/assets/ed308b1f-501f-4c29-8a79-c018384558e9" />
+<img width="8000" height="4564" alt="1  Executive Summary" src="https://github.com/user-attachments/assets/a5127737-7e4d-47a1-a726-4d1f69ed698d" />
  
 ### 2. Sales Analysis
-<img width="100%" alt="2  Sales Analysis" src="https://github.com/user-attachments/assets/7a6f285f-98d5-4c12-aa35-092c17dc12ee" />
+<img width="8000" height="4564" alt="2  Sales Analysis" src="https://github.com/user-attachments/assets/43413b09-8c5a-462e-9441-cb83acf0b97f" />
 
 ### 3. Store & Profitability
-<img width="100%" alt="3  Store   Profitability" src="https://github.com/user-attachments/assets/ebca76d8-2d48-4351-a05a-e7d7739c0208" />
+<img width="8000" height="4564" alt="3  Store   Profitability" src="https://github.com/user-attachments/assets/97a42310-40b6-44a2-92c5-ef3bc3953fee" />
 
 ### 4. Customer Analysis
-<img width="100%" alt="4  Customer Analysis" src="https://github.com/user-attachments/assets/ce7c755a-ba87-49cf-afde-489309892402" />
+<img width="8000" height="4564" alt="4  Customer Analysis" src="https://github.com/user-attachments/assets/051e98a4-9ab0-4d42-9cd5-d548aee0a112" />
 
 ### 5. Category/SKU Performance
-<img width="100%"  alt="5  CategorySKU Performance" src="https://github.com/user-attachments/assets/0ba407ff-8293-484f-8bd8-31adaafe442d" />
+<img width="8000" height="4564" alt="5  CategorySKU Performance" src="https://github.com/user-attachments/assets/9b0d0bc1-c8a8-47da-b413-6c083bb6da16" />
+
 

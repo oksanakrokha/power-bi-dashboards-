@@ -97,6 +97,6 @@ All `_CP` (Current Period) measures use `DATESBETWEEN` + `REMOVEFILTERS('dmDataT
 |---|---|
 | `Sales_Dashboard.pbix` |👉 **[CLICK HERE TO OPEN THE INTERACTIVE DASHBOARD]([PASTE_YOUR_PUBLISH_TO_WEB_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiNTZlMjc2NzEtNmUwYS00ZGQyLWI3NzYtYmE4ZWFmYmVlOTE3IiwidCI6ImU3MWY3MGE4LTkzMTAtNGZkNi04MzA5LTY1M2NhZDU2ZTJkNiJ9))**  
 *(The report opens directly in your browser, is fully interactive, and requires no Power BI licenses or sign-ins).*|
-| `Sales Dashboard Preview.pdf` |![Dashboard Preview](dashboard_preview.png)|
+| `Sales Dashboard Preview.pdf` |![Dashboard Preview](retail-sales/Sales Dashboard Preview.pdf)|
 | `Dataset folder` |
 | `README.md` | 

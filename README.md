@@ -1,3 +1,4 @@
+<img width="3300" height="2550" alt="1  Executive Summary" src="https://github.com/user-attachments/assets/a48c0e11-2dff-4879-857d-553e39667df8" />
 # UpTime Retail Sales Dashboard — README
 
 **Project:** Power BI Sales Performance Dashboard  
@@ -93,20 +94,21 @@ All `_CP` (Current Period) measures use `DATESBETWEEN` + `REMOVEFILTERS('dmDataT
 ---
 ## Files in This Repository
 
-| File | |
-|---|---|
-| `Sales_Dashboard.pbix` |👉 **[Сlick here to open the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTZlMjc2NzEtNmUwYS00ZGQyLWI3NzYtYmE4ZWFmYmVlOTE3IiwidCI6ImU3MWY3MGE4LTkzMTAtNGZkNi04MzA5LTY1M2NhZDU2ZTJkNiJ9&pageName=d9888bfb9075ec439060)** *(The report opens directly in your browser, is fully interactive, and requires no Power BI licenses or sign-ins).*|
-| `Sales Dashboard Preview  |![Dashboard Preview](https://github.com/oksanakrokha/power-bi-dashboards-/blob/f5344fc022bccc0a4f8482881c7bd78ed5713e27/retail-sales/Sales%20Dashboard%20Preview.pdf)|
+👉 **[Сlick here to open the interactive dashboard `Sales_Dashboard.pbix`](https://app.powerbi.com/view?r=eyJrIjoiNTZlMjc2NzEtNmUwYS00ZGQyLWI3NzYtYmE4ZWFmYmVlOTE3IiwidCI6ImU3MWY3MGE4LTkzMTAtNGZkNi04MzA5LTY1M2NhZDU2ZTJkNiJ9&pageName=d9888bfb9075ec439060)** *(The report opens directly in your browser, is fully interactive, and requires no Power BI licenses or sign-ins).*|
+
 <details>
   <summary>📸 Click here to see screenshots of all dashboard pages</summary>
   
   ### 1. Executive Summary
-  [retail-sales/preview/1. Executive Summary.png]
+  [<img width="3300" height="2550" alt="1  Executive Summary" src="https://github.com/user-attachments/assets/ed308b1f-501f-4c29-8a79-c018384558e9" />
+]
   
   ### 2. Sales Analysis
-  [ПЕРЕТЯГНІТЬ СЮДИ СКРІНШОТ 2 СТОРІНКИ]
+  [<img width="3300" height="2550" alt="2  Sales Analysis" src="https://github.com/user-attachments/assets/7a6f285f-98d5-4c12-aa35-092c17dc12ee" />
+]
   
   ### 3. Store & Profitability
-  [ПЕРЕТЯГНІТЬ СЮДИ СКРІНШОТ 3 СТОРІНКИ]
+  [<img width="3300" height="2550" alt="3  Store   Profitability" src="https://github.com/user-attachments/assets/ebca76d8-2d48-4351-a05a-e7d7739c0208" />
+]
 </details>
 

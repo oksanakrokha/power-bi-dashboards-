@@ -95,9 +95,18 @@ All `_CP` (Current Period) measures use `DATESBETWEEN` + `REMOVEFILTERS('dmDataT
 
 | File | |
 |---|---|
-| `Sales_Dashboard.pbix` |👉 **[Сlick here to open the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTZlMjc2NzEtNmUwYS00ZGQyLWI3NzYtYmE4ZWFmYmVlOTE3IiwidCI6ImU3MWY3MGE4LTkzMTAtNGZkNi04MzA5LTY1M2NhZDU2ZTJkNiJ9&pageName=d9888bfb9075ec439060)**  
-*(The report opens directly in your browser, is fully interactive, and requires no Power BI licenses or sign-ins).*|
-| `Sales Dashboard Preview.pdf` |![Dashboard Preview](https://github.com/oksanakrokha/power-bi-dashboards-/blob/f5344fc022bccc0a4f8482881c7bd78ed5713e27/retail-sales/Sales%20Dashboard%20Preview.pdf)|
+| `Sales_Dashboard.pbix` |👉 **[Сlick here to open the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTZlMjc2NzEtNmUwYS00ZGQyLWI3NzYtYmE4ZWFmYmVlOTE3IiwidCI6ImU3MWY3MGE4LTkzMTAtNGZkNi04MzA5LTY1M2NhZDU2ZTJkNiJ9&pageName=d9888bfb9075ec439060)** *(The report opens directly in your browser, is fully interactive, and requires no Power BI licenses or sign-ins).*|
+| `Sales Dashboard Preview  |![Dashboard Preview](https://github.com/oksanakrokha/power-bi-dashboards-/blob/f5344fc022bccc0a4f8482881c7bd78ed5713e27/retail-sales/Sales%20Dashboard%20Preview.pdf)|
+<details>
+  <summary>📸 Click here to see screenshots of all dashboard pages</summary>
+  
+  ### 1. Executive Summary
+  [ПЕРЕТЯГНІТЬ СЮДИ С КРІНШОТ 1 СТОРІНКИ]
+  
+  ### 2. Sales Analysis
+  [ПЕРЕТЯГНІТЬ СЮДИ СКРІНШОТ 2 СТОРІНКИ]
+  
+  ### 3. Store & Profitability
+  [ПЕРЕТЯГНІТЬ СЮДИ СКРІНШОТ 3 СТОРІНКИ]
+</details>
 
-| `Dataset folder` |
-| `README.md` | 

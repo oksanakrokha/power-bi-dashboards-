@@ -1,7 +1,7 @@
-# UpTime Retail Sales Dashboard — README
+# Retail Sales Dashboard — README
 
 **Project:** Power BI Sales Performance Dashboard  
-**Client (fictional):** UpTime Sportswear — multi-store retail chain  
+**Client (fictional):** Sportswear — multi-store retail chain  
 **Author:** Oksana K.  
 **Last updated:** September 2026  
 **Data range:** January 2022 – September 30, 2024  

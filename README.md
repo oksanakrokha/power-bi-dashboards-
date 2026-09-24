@@ -40,7 +40,7 @@ All source data is stored in **Excel (.xlsx) and CSV files** that must be loaded
 | `ftOperationalCost` | Store operating expenses | Excel |
 | `ftSupplier` | Purchase / receiving records | Excel |
 | `tClientsAttandance` | Foot traffic (visitors) | Excel |
-| `dmStores` | Store master (name, city, ID) | Excel |
+| `dmStores` | Store master (name, city, ID) | Excel / CSV |
 | `dmItems` | Product master (brand, category, SKU) | Excel |
 | `dmClients` | Customer master | Excel |
 | `dmDataTable` | Calendar / Date dimension | Calculated in Power BI |
@@ -93,9 +93,10 @@ All `_CP` (Current Period) measures use `DATESBETWEEN` + `REMOVEFILTERS('dmDataT
 ---
 ## Files in This Repository
 
-| File | Description |
+| File | |
 |---|---|
-| `Sales_Dashboard.pbix` |
-| `Sales Dashboard Preview.pdf` |
+| `Sales_Dashboard.pbix` |👉 **[CLICK HERE TO OPEN THE INTERACTIVE DASHBOARD]([PASTE_YOUR_PUBLISH_TO_WEB_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiNTZlMjc2NzEtNmUwYS00ZGQyLWI3NzYtYmE4ZWFmYmVlOTE3IiwidCI6ImU3MWY3MGE4LTkzMTAtNGZkNi04MzA5LTY1M2NhZDU2ZTJkNiJ9))**  
+*(The report opens directly in your browser, is fully interactive, and requires no Power BI licenses or sign-ins).*|
+| `Sales Dashboard Preview.pdf` |![Dashboard Preview](dashboard_preview.png)|
 | `Dataset folder` |
 | `README.md` | 

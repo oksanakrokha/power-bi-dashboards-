@@ -93,7 +93,7 @@ All `_CP` (Current Period) measures use `DATESBETWEEN` + `REMOVEFILTERS('dmDataT
 ---
 ## Files in This Repository
 
-👉 **[Сlick here to open the interactive dashboard `Sales_Dashboard.pbix`](https://app.powerbi.com/view?r=eyJrIjoiNTZlMjc2NzEtNmUwYS00ZGQyLWI3NzYtYmE4ZWFmYmVlOTE3IiwidCI6ImU3MWY3MGE4LTkzMTAtNGZkNi04MzA5LTY1M2NhZDU2ZTJkNiJ9&pageName=d9888bfb9075ec439060)** *(The report opens directly in your browser, is fully interactive, and requires no Power BI licenses or sign-ins).*
+👉 **[Сlick here to open the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTZlMjc2NzEtNmUwYS00ZGQyLWI3NzYtYmE4ZWFmYmVlOTE3IiwidCI6ImU3MWY3MGE4LTkzMTAtNGZkNi04MzA5LTY1M2NhZDU2ZTJkNiJ9&pageName=d9888bfb9075ec439060)** *(The report opens directly in your browser, is fully interactive, and requires no Power BI licenses or sign-ins).*
 
 📸 **Screenshots of all dashboard pages**
 

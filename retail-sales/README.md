@@ -101,17 +101,17 @@ All `_CP` (Current Period) measures use `DATESBETWEEN` + `REMOVEFILTERS('dmDataT
 📸 **Screenshots of all dashboard pages**
 
 ### 1. Executive Summary
-<img width="100%" height="2550" alt="1  Executive Summary" src="https://github.com/user-attachments/assets/ed308b1f-501f-4c29-8a79-c018384558e9" />
+<img width="8000" height="2550" alt="1  Executive Summary" src="https://github.com/user-attachments/assets/ed308b1f-501f-4c29-8a79-c018384558e9" />
  
 ### 2. Sales Analysis
-<img width="100%" height="2550" alt="2  Sales Analysis" src="https://github.com/user-attachments/assets/7a6f285f-98d5-4c12-aa35-092c17dc12ee" />
+<img width="8000" height="2550" alt="2  Sales Analysis" src="https://github.com/user-attachments/assets/7a6f285f-98d5-4c12-aa35-092c17dc12ee" />
 
 ### 3. Store & Profitability
-<img width="100%" height="2550" alt="3  Store   Profitability" src="https://github.com/user-attachments/assets/ebca76d8-2d48-4351-a05a-e7d7739c0208" />
+<img width="8000" height="2550" alt="3  Store   Profitability" src="https://github.com/user-attachments/assets/ebca76d8-2d48-4351-a05a-e7d7739c0208" />
 
 ### 4. Customer Analysis
-<img width="100%" height="4564" alt="4  Customer Analysis" src="https://github.com/user-attachments/assets/ce7c755a-ba87-49cf-afde-489309892402" />
+<img width="8000" height="4564" alt="4  Customer Analysis" src="https://github.com/user-attachments/assets/ce7c755a-ba87-49cf-afde-489309892402" />
 
 ### 5. Category/SKU Performance
-<img width="100%" height="2550" alt="5  CategorySKU Performance" src="https://github.com/user-attachments/assets/0ba407ff-8293-484f-8bd8-31adaafe442d" />
+<img width="8000" height="2550" alt="5  CategorySKU Performance" src="https://github.com/user-attachments/assets/0ba407ff-8293-484f-8bd8-31adaafe442d" />
 

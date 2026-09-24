@@ -1,6 +1,6 @@
-department_id,name
-1,Information Technology
-2,Human Resources
-3,Sales
-4,Operations
-5,Finance
+department_id,Department,created_at,updated_at
+1,Information Technology,2026-07-26,2026-07-26
+2,Human Resources,2026-07-26,2026-07-26
+3,Sales,2026-07-26,2026-07-26
+4,Operations,2026-07-26,2026-07-26
+5,Finance,2026-07-26,2026-07-26

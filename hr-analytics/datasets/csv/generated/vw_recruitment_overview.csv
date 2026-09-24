@@ -1,0 +1,301 @@
+vacancy_id,department,position,vacancy_status,opened_date,closed_date,candidate_count
+208,Finance,Financial Analyst,Closed,2026-03-16,2026-07-05,15
+288,Finance,Financial Analyst,Closed,2025-12-15,2026-04-05,14
+142,Operations,Field Technician,Closed,2025-05-19,2025-09-07,8
+223,Sales,Sales Representative,Closed,2024-05-08,2024-08-27,10
+227,Human Resources,HR Specialist,Closed,2026-12-24,2026-12-29,8
+259,Operations,Field Technician,Closed,2026-03-05,2026-08-22,11
+285,Information Technology,Software Developer,Closed,2025-08-12,2025-12-01,19
+167,Information Technology,Data Analyst,Closed,2025-09-03,2025-10-21,12
+181,Human Resources,HR Specialist,Closed,2025-02-15,2025-06-06,11
+245,Human Resources,HR Specialist,Closed,2024-11-07,2025-03-22,6
+184,Finance,Financial Analyst,Closed,2025-01-22,2025-05-13,10
+237,Human Resources,HR Specialist,Closed,2024-04-21,2024-08-10,11
+38,Information Technology,Data Analyst,Closed,2023-10-21,2024-02-09,11
+32,Operations,Field Technician,Closed,2024-07-19,2024-11-07,18
+42,Finance,Financial Analyst,Closed,2026-04-27,2026-08-24,15
+100,Human Resources,HR Specialist,Closed,2023-02-26,2023-06-17,9
+81,Operations,Field Technician,Closed,2026-02-24,2026-06-15,16
+296,Information Technology,Software Developer,Closed,2025-10-30,2026-02-02,25
+85,Operations,Field Technician,Closed,2023-04-26,2023-08-15,18
+21,Finance,Financial Analyst,Closed,2023-03-24,2023-07-13,14
+139,Operations,Operations Manager,Closed,2025-01-01,2025-04-22,11
+27,Operations,Field Technician,Closed,2023-08-07,2023-11-26,10
+105,Operations,Operations Manager,Closed,2024-01-17,2024-05-07,8
+287,Operations,Field Technician,Closed,2023-11-01,2024-02-20,16
+215,Operations,Operations Manager,Closed,2025-12-03,2026-03-24,16
+19,Human Resources,HR Specialist,Closed,2026-01-08,2026-04-29,8
+88,Sales,Sales Representative,Closed,2025-10-19,2026-03-07,10
+150,Operations,Field Technician,Closed,2023-10-24,2024-02-12,14
+96,Operations,Operations Manager,Closed,2025-11-30,2026-03-21,14
+214,Operations,Operations Manager,Closed,2023-04-25,2023-08-14,12
+72,Information Technology,Software Developer,Closed,2024-05-31,2024-09-19,9
+272,Human Resources,HR Specialist,Closed,2025-09-07,2025-12-08,7
+60,Information Technology,Data Analyst,Closed,2024-10-05,2025-01-24,10
+92,Finance,Financial Analyst,Closed,2025-02-12,2025-05-29,13
+224,Information Technology,Software Developer,Closed,2026-05-30,2026-07-05,11
+260,Human Resources,HR Specialist,Closed,2026-04-06,2026-07-26,11
+22,Information Technology,Data Analyst,Closed,2023-09-29,2023-10-16,17
+180,Sales,Sales Representative,Closed,2025-12-07,2026-03-28,14
+141,Operations,Field Technician,Closed,2026-10-28,2026-11-03,12
+112,Information Technology,Data Analyst,Closed,2024-03-09,2024-06-28,13
+185,Operations,Operations Manager,Closed,2024-04-17,2024-08-06,15
+36,Operations,Field Technician,Closed,2024-06-09,2024-09-28,9
+204,Operations,Field Technician,Closed,2024-08-10,2024-11-29,11
+93,Sales,Sales Representative,Closed,2025-06-25,2025-10-14,13
+107,Finance,Financial Analyst,Closed,2025-02-28,2025-06-19,19
+229,Operations,Operations Manager,Closed,2023-11-11,2024-03-01,10
+136,Information Technology,Data Analyst,Closed,2023-03-28,2023-07-17,9
+53,Information Technology,Data Analyst,Closed,2026-12-12,2026-12-13,11
+192,Information Technology,Software Developer,Closed,2026-10-16,2026-10-18,21
+297,Information Technology,Data Analyst,Closed,2026-09-16,2026-12-29,17
+6,Sales,Sales Representative,Closed,2026-05-15,2026-10-05,12
+33,Finance,Financial Analyst,Closed,2025-11-11,2026-03-02,5
+261,Operations,Field Technician,Closed,2023-01-27,2023-05-18,5
+226,Human Resources,HR Specialist,Closed,2025-01-03,2025-04-24,10
+198,Operations,Operations Manager,Closed,2024-06-25,2024-06-28,9
+291,Finance,Financial Analyst,Closed,2025-02-05,2025-04-05,18
+126,Information Technology,Software Developer,Closed,2026-11-29,2026-12-13,8
+166,Finance,Financial Analyst,Closed,2025-02-12,2025-06-03,5
+280,Finance,Financial Analyst,Closed,2023-01-14,2023-07-07,12
+39,Information Technology,Data Analyst,Closed,2026-09-26,2026-11-08,10
+182,Human Resources,HR Specialist,Closed,2025-10-06,2026-01-25,9
+199,Operations,Operations Manager,Closed,2023-01-23,2023-06-09,14
+79,Operations,Field Technician,Closed,2026-10-17,2026-12-03,14
+173,Human Resources,HR Specialist,Closed,2024-04-06,2024-07-26,7
+218,Finance,Financial Analyst,Closed,2025-06-26,2025-07-17,9
+121,Finance,Financial Analyst,Closed,2025-01-26,2025-05-17,10
+68,Information Technology,Software Developer,Closed,2024-02-11,2024-06-01,9
+191,Operations,Operations Manager,Closed,2026-04-07,2026-07-27,14
+12,Sales,Sales Representative,Closed,2026-04-24,2026-10-12,13
+104,Finance,Financial Analyst,Closed,2026-02-09,2026-04-24,3
+193,Operations,Operations Manager,Closed,2023-05-02,2023-08-21,10
+202,Operations,Field Technician,Closed,2023-10-18,2023-12-12,12
+54,Information Technology,Data Analyst,Closed,2026-04-08,2026-09-26,20
+256,Human Resources,HR Specialist,Closed,2026-10-31,2026-11-02,11
+231,Operations,Operations Manager,Closed,2025-08-17,2026-01-26,8
+159,Human Resources,HR Specialist,Closed,2026-12-02,2026-12-29,8
+169,Finance,Financial Analyst,Closed,2025-07-13,2025-11-01,18
+175,Sales,Sales Representative,Closed,2026-02-20,2026-06-11,9
+57,Operations,Field Technician,Closed,2025-08-08,2025-11-27,13
+246,Finance,Financial Analyst,Closed,2026-05-26,2026-08-10,8
+108,Finance,Financial Analyst,Closed,2025-03-20,2025-07-09,8
+115,Information Technology,Data Analyst,Closed,2024-08-03,2024-09-24,11
+238,Finance,Financial Analyst,Closed,2024-07-14,2024-11-02,9
+146,Finance,Financial Analyst,Closed,2026-04-08,2026-08-04,14
+134,Sales,Sales Representative,Closed,2025-06-07,2025-09-26,17
+148,Operations,Operations Manager,Closed,2026-07-31,2026-09-11,15
+283,Sales,Sales Representative,Closed,2023-10-01,2024-01-20,11
+14,Information Technology,Data Analyst,Closed,2023-04-25,2023-08-14,13
+235,Information Technology,Software Developer,Closed,2024-08-30,2025-01-22,11
+233,Sales,Sales Representative,Closed,2025-05-31,2025-09-19,3
+168,Sales,Sales Representative,Closed,2024-01-27,2024-05-17,10
+17,Sales,Sales Representative,Closed,2025-04-29,2025-07-11,20
+274,Finance,Financial Analyst,Closed,2024-08-23,2024-12-12,10
+144,Information Technology,Software Developer,Closed,2024-12-20,2025-04-10,14
+222,Information Technology,Software Developer,Closed,2024-08-17,2024-12-06,7
+152,Information Technology,Data Analyst,Closed,2025-02-14,2025-03-10,10
+289,Information Technology,Data Analyst,Closed,2023-09-20,2024-01-09,14
+258,Sales,Sales Representative,Closed,2025-07-28,2025-11-16,9
+16,Sales,Sales Representative,Closed,2023-06-02,2023-09-21,13
+116,Human Resources,HR Specialist,Closed,2023-07-29,2023-11-17,11
+98,Human Resources,HR Specialist,Closed,2023-03-09,2023-06-28,11
+247,Information Technology,Software Developer,Closed,2024-12-20,2025-01-29,13
+83,Information Technology,Data Analyst,Closed,2023-09-11,2023-12-31,15
+232,Operations,Operations Manager,Closed,2025-11-10,2025-11-28,11
+143,Information Technology,Data Analyst,Closed,2026-03-26,2026-07-15,11
+111,Information Technology,Software Developer,Closed,2026-01-20,2026-04-23,8
+11,Information Technology,Software Developer,Closed,2026-12-17,2026-12-18,10
+130,Operations,Operations Manager,Closed,2024-02-17,2024-06-07,11
+67,Operations,Field Technician,Closed,2024-07-15,2024-08-09,14
+295,Information Technology,Data Analyst,Closed,2024-05-28,2024-09-16,5
+29,Finance,Financial Analyst,Closed,2025-06-20,2025-10-09,8
+294,Operations,Operations Manager,Closed,2025-05-02,2025-08-21,14
+249,Operations,Operations Manager,Closed,2024-12-12,2025-04-02,15
+286,Sales,Sales Representative,Closed,2023-11-18,2024-03-08,13
+220,Information Technology,Software Developer,Closed,2024-04-05,2024-07-25,9
+269,Finance,Financial Analyst,Closed,2025-10-05,2026-01-24,14
+145,Sales,Sales Representative,Closed,2025-07-08,2025-10-27,13
+10,Operations,Field Technician,Closed,2025-08-18,2025-12-30,14
+23,Operations,Operations Manager,Closed,2023-11-30,2024-03-20,11
+28,Operations,Field Technician,Closed,2026-04-18,2026-08-07,14
+9,Sales,Sales Representative,Closed,2025-12-15,2026-04-05,15
+2,Information Technology,Data Analyst,Closed,2025-03-24,2025-08-26,8
+221,Information Technology,Data Analyst,Closed,2024-05-21,2024-09-09,7
+84,Operations,Operations Manager,Closed,2025-12-23,2026-05-13,13
+80,Operations,Operations Manager,Closed,2023-08-23,2023-12-12,14
+253,Operations,Field Technician,Closed,2026-12-01,2026-12-19,15
+201,Operations,Operations Manager,Closed,2024-06-04,2024-09-23,10
+210,Operations,Field Technician,Closed,2026-08-19,2026-12-18,8
+110,Finance,Financial Analyst,Closed,2024-04-20,2024-08-19,12
+160,Information Technology,Data Analyst,Closed,2025-02-07,2025-05-29,8
+299,Human Resources,HR Specialist,Closed,2025-11-04,2026-02-23,12
+252,Operations,Operations Manager,Closed,2026-05-15,2026-09-03,14
+278,Finance,Financial Analyst,Closed,2025-02-07,2025-05-29,14
+7,Finance,Financial Analyst,Closed,2025-11-20,2026-03-11,23
+90,Human Resources,HR Specialist,Closed,2023-11-18,2024-03-08,18
+34,Sales,Sales Representative,Closed,2026-11-27,2026-12-04,18
+234,Information Technology,Data Analyst,Closed,2023-04-07,2023-07-27,10
+44,Operations,Operations Manager,Closed,2023-07-01,2023-10-20,17
+30,Sales,Sales Representative,Closed,2024-12-02,2025-03-23,14
+268,Operations,Operations Manager,Closed,2023-01-23,2023-05-14,13
+24,Information Technology,Software Developer,Closed,2023-01-14,2023-04-21,9
+94,Information Technology,Data Analyst,Closed,2026-04-15,2026-06-06,9
+95,Information Technology,Software Developer,Closed,2026-10-09,2026-10-24,17
+300,Information Technology,Data Analyst,Closed,2026-08-04,2026-10-28,6
+4,Human Resources,HR Specialist,Closed,2024-12-18,2025-04-08,16
+239,Human Resources,HR Specialist,Closed,2024-11-20,2024-12-15,10
+164,Information Technology,Software Developer,Closed,2023-03-19,2023-07-08,18
+89,Human Resources,HR Specialist,Closed,2023-09-12,2024-01-01,13
+101,Information Technology,Software Developer,Closed,2025-12-17,2026-04-07,6
+154,Human Resources,HR Specialist,Closed,2024-09-20,2025-01-09,11
+64,Information Technology,Data Analyst,Closed,2026-12-21,2026-12-25,8
+135,Information Technology,Data Analyst,Closed,2023-02-24,2023-06-15,9
+196,Sales,Sales Representative,Open,2026-09-26,,13
+183,Sales,Sales Representative,Open,2024-04-22,,13
+170,Finance,Financial Analyst,Open,2024-07-16,,13
+211,Finance,Financial Analyst,Open,2026-09-18,,13
+189,Sales,Sales Representative,Open,2026-02-11,,13
+248,Human Resources,HR Specialist,Open,2023-04-02,,13
+163,Sales,Sales Representative,Open,2026-12-07,,13
+86,Human Resources,HR Specialist,Open,2025-07-12,,13
+298,Finance,Financial Analyst,Open,2024-04-16,,13
+157,Human Resources,HR Specialist,Open,2025-01-02,,13
+3,Human Resources,HR Specialist,Open,2024-02-11,,13
+242,Finance,Financial Analyst,Open,2026-12-22,,17
+113,Finance,Financial Analyst,Open,2025-11-07,,15
+244,Human Resources,HR Specialist,Open,2025-01-01,,15
+171,Human Resources,HR Specialist,Open,2025-11-23,,10
+240,Human Resources,HR Specialist,Open,2026-07-17,,10
+124,Finance,Financial Analyst,Open,2026-01-17,,11
+264,Human Resources,HR Specialist,Open,2025-12-10,,16
+37,Finance,Financial Analyst,Open,2024-09-16,,10
+13,Finance,Financial Analyst,Open,2023-01-18,,7
+5,Human Resources,HR Specialist,Open,2023-07-14,,12
+217,Sales,Sales Representative,Open,2025-11-26,,15
+262,Human Resources,HR Specialist,Open,2026-11-21,,8
+236,Finance,Financial Analyst,Open,2023-08-05,,12
+66,Sales,Sales Representative,Open,2025-03-11,,9
+177,Finance,Financial Analyst,Open,2026-03-25,,14
+190,Human Resources,HR Specialist,Open,2023-02-26,,15
+49,Human Resources,HR Specialist,Open,2025-08-18,,17
+56,Sales,Sales Representative,Open,2023-05-23,,7
+195,Human Resources,HR Specialist,Open,2024-12-26,,6
+276,Finance,Financial Analyst,Open,2026-10-14,,14
+35,Sales,Sales Representative,Open,2024-09-19,,11
+149,Finance,Financial Analyst,Open,2024-06-30,,9
+263,Finance,Financial Analyst,Open,2025-11-13,,12
+131,Finance,Financial Analyst,Open,2023-05-31,,6
+48,Human Resources,HR Specialist,Open,2023-12-11,,15
+241,Human Resources,HR Specialist,Open,2025-02-13,,10
+45,Finance,Financial Analyst,Open,2025-07-07,,5
+74,Finance,Financial Analyst,Open,2026-02-19,,12
+91,Human Resources,HR Specialist,Open,2025-05-27,,7
+162,Finance,Financial Analyst,Open,2024-11-27,,5
+18,Human Resources,HR Specialist,Open,2024-02-27,,9
+122,Human Resources,HR Specialist,Open,2025-10-16,,21
+120,Finance,Financial Analyst,Open,2024-12-12,,10
+275,Finance,Financial Analyst,Open,2025-04-07,,15
+118,Human Resources,HR Specialist,Open,2023-12-01,,10
+127,Sales,Sales Representative,Open,2024-03-29,,16
+172,Human Resources,HR Specialist,Open,2023-05-12,,10
+61,Human Resources,HR Specialist,Open,2023-08-17,,8
+138,Human Resources,HR Specialist,Open,2024-05-29,,17
+257,Sales,Sales Representative,Open,2023-04-29,,15
+165,Finance,Financial Analyst,Open,2024-11-26,,6
+271,Sales,Sales Representative,Open,2025-08-07,,11
+55,Sales,Sales Representative,Open,2024-09-13,,15
+213,Human Resources,HR Specialist,Open,2026-02-15,,12
+205,Finance,Financial Analyst,Open,2024-06-12,,18
+140,Human Resources,HR Specialist,Open,2023-03-19,,10
+65,Finance,Financial Analyst,Open,2023-11-15,,12
+20,Human Resources,HR Specialist,Open,2023-10-10,,19
+251,Sales,Sales Representative,Open,2024-11-01,,10
+43,Finance,Financial Analyst,Open,2023-02-27,,12
+8,Sales,Sales Representative,Open,2025-02-10,,14
+41,Human Resources,HR Specialist,Open,2025-07-15,,11
+179,Sales,Sales Representative,Open,2026-12-13,,10
+197,Sales,Sales Representative,Open,2023-12-23,,16
+216,Human Resources,HR Specialist,Open,2025-12-23,,8
+76,Sales,Sales Representative,Open,2026-03-15,,8
+266,Human Resources,HR Specialist,Open,2023-09-25,,9
+58,Human Resources,HR Specialist,Open,2023-12-13,,11
+243,Sales,Sales Representative,Open,2023-11-05,,15
+153,Finance,Financial Analyst,Open,2025-10-06,,12
+207,Operations,Field Technician,Open,2025-07-27,,15
+156,Operations,Field Technician,Open,2025-02-15,,19
+225,Operations,Operations Manager,Open,2023-07-31,,7
+102,Operations,Operations Manager,Open,2024-04-14,,8
+176,Operations,Operations Manager,Open,2024-04-16,,7
+209,Operations,Field Technician,Open,2025-01-14,,16
+109,Operations,Operations Manager,Open,2026-02-22,,5
+52,Operations,Operations Manager,Open,2026-07-06,,16
+282,Operations,Operations Manager,Open,2025-03-14,,8
+254,Operations,Operations Manager,Open,2023-07-27,,10
+99,Operations,Field Technician,Open,2024-10-20,,13
+75,Operations,Operations Manager,Open,2024-12-09,,12
+87,Operations,Operations Manager,Open,2026-07-22,,11
+133,Operations,Operations Manager,Open,2026-02-21,,11
+178,Operations,Operations Manager,Open,2025-04-07,,11
+117,Operations,Field Technician,Open,2025-10-16,,18
+194,Operations,Field Technician,Open,2026-05-07,,18
+62,Operations,Operations Manager,Open,2024-01-15,,15
+97,Operations,Operations Manager,Open,2025-05-28,,10
+228,Operations,Operations Manager,Open,2026-07-31,,12
+63,Operations,Operations Manager,Open,2026-05-15,,11
+293,Operations,Field Technician,Open,2026-12-07,,6
+129,Operations,Operations Manager,Open,2026-06-08,,10
+25,Operations,Operations Manager,Open,2023-08-07,,10
+206,Operations,Field Technician,Open,2024-06-24,,13
+255,Operations,Operations Manager,Open,2026-12-16,,15
+73,Operations,Operations Manager,Open,2026-07-17,,6
+203,Operations,Field Technician,Open,2024-04-04,,16
+267,Operations,Operations Manager,Open,2025-08-06,,13
+82,Operations,Operations Manager,Open,2023-03-12,,10
+50,Operations,Field Technician,Open,2026-06-10,,9
+277,Operations,Field Technician,Open,2026-02-15,,15
+200,Operations,Operations Manager,Open,2023-06-17,,12
+132,Operations,Field Technician,Open,2025-12-14,,15
+151,Information Technology,Software Developer,Open,2026-03-15,,8
+1,Information Technology,Software Developer,Open,2024-11-02,,12
+123,Information Technology,Software Developer,Open,2024-06-08,,10
+78,Information Technology,Software Developer,Open,2026-03-24,,18
+281,Information Technology,Software Developer,Open,2026-10-29,,8
+158,Information Technology,Software Developer,Open,2026-05-29,,7
+59,Information Technology,Software Developer,Open,2026-06-08,,11
+279,Information Technology,Software Developer,Open,2024-12-04,,10
+71,Information Technology,Software Developer,Open,2024-09-14,,14
+186,Information Technology,Software Developer,Open,2026-03-12,,6
+47,Information Technology,Software Developer,Open,2026-09-26,,12
+69,Information Technology,Software Developer,Open,2023-11-11,,8
+26,Information Technology,Software Developer,Open,2023-05-30,,9
+273,Information Technology,Software Developer,Open,2025-09-15,,9
+70,Information Technology,Software Developer,Open,2023-01-15,,9
+265,Information Technology,Software Developer,Open,2025-06-13,,10
+51,Information Technology,Software Developer,Open,2025-12-31,,15
+155,Information Technology,Software Developer,Open,2026-08-16,,5
+137,Information Technology,Software Developer,Open,2023-09-03,,13
+250,Information Technology,Data Analyst,Open,2025-05-12,,7
+174,Information Technology,Data Analyst,Open,2025-03-05,,14
+187,Information Technology,Data Analyst,Open,2025-05-24,,14
+103,Information Technology,Data Analyst,Open,2025-04-20,,15
+230,Information Technology,Data Analyst,Open,2024-05-29,,7
+46,Information Technology,Data Analyst,Open,2023-01-27,,14
+219,Information Technology,Data Analyst,Open,2025-02-11,,9
+188,Information Technology,Data Analyst,Open,2024-09-19,,14
+147,Information Technology,Data Analyst,Open,2024-07-13,,10
+77,Information Technology,Data Analyst,Open,2026-07-07,,14
+106,Information Technology,Data Analyst,Open,2023-04-30,,7
+212,Information Technology,Data Analyst,Open,2025-06-02,,11
+125,Information Technology,Data Analyst,Open,2024-01-05,,12
+15,Information Technology,Data Analyst,Open,2023-07-22,,2
+270,Information Technology,Data Analyst,Open,2026-01-09,,13
+290,Information Technology,Data Analyst,Open,2023-06-16,,11
+292,Information Technology,Data Analyst,Open,2026-07-27,,11
+114,Information Technology,Data Analyst,Open,2023-02-12,,11
+161,Information Technology,Data Analyst,Open,2024-10-04,,14
+128,Information Technology,Data Analyst,Open,2026-01-09,,7
+31,Information Technology,Data Analyst,Open,2023-10-19,,12
+284,Information Technology,Data Analyst,Open,2025-04-22,,6
+119,Information Technology,Data Analyst,Open,2024-12-25,,9
+40,Information Technology,Data Analyst,Open,2023-02-16,,10

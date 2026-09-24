@@ -1,15 +1,15 @@
-termination_reason_id,code,reason
-1,A,Shortage of Work / Layoff / End of Contract
-2,B,Strike or Lockout
-3,C,Return to School
-4,D,Illness or Injury
-5,E,Quit
-6,F,Maternity
-7,G,Mandatory Retirement / Workforce Reduction
-8,H,Work-Sharing
-9,J,Apprentice Training
-10,K,Other
-11,M,Dismissal
-12,N,Leave of Absence
-13,P,Parental
-14,Z,Compassionate Care / Family Caregiver
+termination_reason_id,code,reason,created_at,updated_at
+1,A,Shortage of Work / Layoff / End of Contract,2026-07-26,2026-07-26
+2,B,Strike or Lockout,2026-07-26,2026-07-26
+3,C,Return to School,2026-07-26,2026-07-26
+4,D,Illness or Injury,2026-07-26,2026-07-26
+5,E,Quit,2026-07-26,2026-07-26
+6,F,Maternity,2026-07-26,2026-07-26
+7,G,Mandatory Retirement / Workforce Reduction,2026-07-26,2026-07-26
+8,H,Work-Sharing,2026-07-26,2026-07-26
+9,J,Apprentice Training,2026-07-26,2026-07-26
+10,K,Other,2026-07-26,2026-07-26
+11,M,Dismissal,2026-07-26,2026-07-26
+12,N,Leave of Absence,2026-07-26,2026-07-26
+13,P,Parental,2026-07-26,2026-07-26
+14,Z,Compassionate Care / Family Caregiver,2026-07-26,2026-07-26

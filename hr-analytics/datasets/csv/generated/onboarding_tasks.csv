@@ -1,13 +1,13 @@
-task_id,template_id,task_name,is_required
-1,1,Setup workstation,True
-2,1,Security training,True
-3,1,Access permissions,True
-4,2,HR policies review,True
-5,2,Benefits enrollment,True
-6,2,Company handbook review,True
-7,3,CRM training,True
-8,3,Sales process training,True
-9,4,Safety training,True
-10,4,Equipment training,True
-11,5,Finance systems access,True
-12,5,Compliance training,True
+task_id,template_id,task_name,is_required,created_at,updated_at
+1,1,Setup workstation,TRUE,2026-07-26,2026-07-26
+2,1,Security training,TRUE,2026-07-26,2026-07-26
+3,1,Access permissions,TRUE,2026-07-26,2026-07-26
+4,2,HR policies review,TRUE,2026-07-26,2026-07-26
+5,2,Benefits enrollment,TRUE,2026-07-26,2026-07-26
+6,2,Company handbook review,TRUE,2026-07-26,2026-07-26
+7,3,CRM training,TRUE,2026-07-26,2026-07-26
+8,3,Sales process training,TRUE,2026-07-26,2026-07-26
+9,4,Safety training,TRUE,2026-07-26,2026-07-26
+10,4,Equipment training,TRUE,2026-07-26,2026-07-26
+11,5,Finance systems access,TRUE,2026-07-26,2026-07-26
+12,5,Compliance training,TRUE,2026-07-26,2026-07-26

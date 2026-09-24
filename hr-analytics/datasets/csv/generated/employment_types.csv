@@ -1,5 +1,5 @@
-employment_type_id,name
-1,Full-Time
-2,Part-Time
-3,Contract
-4,Temporary
+employment_type_id,Type,created_at,updated_at
+1,Full-Time,2026-07-26,2026-07-26
+2,Part-Time,2026-07-26,2026-07-26
+3,Contract,2026-07-26,2026-07-26
+4,Temporary,2026-07-26,2026-07-26

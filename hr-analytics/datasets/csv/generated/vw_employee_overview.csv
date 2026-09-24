@@ -1,0 +1,501 @@
+employee_id,employee_name,email,department,position,manager,employment_type,employment_status,hire_date,termination_date,tenure_years,termination_reason,termination_category,tenure_band
+57,Benjamin Mcdonald,employee57@uptime-solutions.com,Information Technology,Software Developer,Nicole Smith,Temporary,Terminated,2026-01-23,2026-04-02,0,Other,Other,0-1 Year
+135,Donald Johnson,employee135@uptime-solutions.com,Information Technology,Data Analyst,Joseph Archer,Part-Time,Terminated,2022-08-25,2025-07-05,2,Illness or Injury,Operational,2-3 Years
+150,Kenneth Fields,employee150@uptime-solutions.com,Operations,Field Technician,Paul Thompson,Temporary,Terminated,2021-01-23,2021-09-30,0,Work-Sharing,Operational,0-1 Year
+173,Erin Grant,employee173@uptime-solutions.com,Information Technology,Data Analyst,Wesley Lloyd,Contract,Terminated,2020-01-28,2022-08-24,2,Other,Other,2-3 Years
+186,Justin King,employee186@uptime-solutions.com,Information Technology,Data Analyst,Travis Wheeler,Part-Time,Terminated,2021-06-08,2022-11-30,1,Work-Sharing,Operational,0-1 Year
+205,Terri Newman,employee205@uptime-solutions.com,Human Resources,HR Specialist,Karen Richardson,Contract,Terminated,2021-11-16,2023-11-27,2,Apprentice Training,Operational,2-3 Years
+209,Nathan Robertson,employee209@uptime-solutions.com,Human Resources,HR Specialist,Brenda Odom,Part-Time,Terminated,2020-07-28,2025-12-25,5,Other,Other,4-5 Years
+237,Christopher Thornton,employee237@uptime-solutions.com,Human Resources,HR Specialist,Tricia Stephens,Full-Time,Terminated,2026-05-27,2026-07-14,0,Work-Sharing,Operational,0-1 Year
+278,Ryan Herrera,employee278@uptime-solutions.com,Information Technology,Data Analyst,Tricia Stephens,Contract,Terminated,2021-08-02,2021-08-02,0,Illness or Injury,Operational,0-1 Year
+326,Valerie Duncan,employee326@uptime-solutions.com,Operations,Field Technician,Melissa Harris,Contract,Terminated,2020-06-17,2025-11-14,5,Illness or Injury,Operational,4-5 Years
+372,Kristina Mitchell,employee372@uptime-solutions.com,Sales,Sales Representative,Alicia Fisher,Part-Time,Terminated,2022-10-16,2024-10-31,2,Apprentice Training,Operational,2-3 Years
+453,Brian Vance,employee453@uptime-solutions.com,Sales,Sales Representative,Wesley Lloyd,Temporary,Terminated,2022-10-14,2026-08-27,3,Apprentice Training,Operational,2-3 Years
+66,James Romero,employee66@uptime-solutions.com,Finance,Financial Analyst,Richard Dudley,Part-Time,Terminated,2023-08-17,2026-08-01,2,Mandatory Retirement / Workforce Reduction,Involuntary,2-3 Years
+133,Daniel Green,employee133@uptime-solutions.com,Operations,Operations Manager,Paul Thompson,Full-Time,Terminated,2023-03-05,2026-02-26,2,Shortage of Work / Layoff / End of Contract,Involuntary,2-3 Years
+194,Robert Lopez,employee194@uptime-solutions.com,Finance,Financial Analyst,Ian Lyons,Temporary,Terminated,2021-12-31,2022-06-27,0,Shortage of Work / Layoff / End of Contract,Involuntary,0-1 Year
+292,Michelle Martinez,employee292@uptime-solutions.com,Sales,Sales Representative,Jill Romero,Temporary,Terminated,2024-04-10,2024-11-28,0,Dismissal,Involuntary,0-1 Year
+344,Timothy Hill,employee344@uptime-solutions.com,Finance,Financial Analyst,Nicole Smith,Contract,Terminated,2026-08-27,2026-11-08,0,Dismissal,Involuntary,0-1 Year
+363,Vanessa Brown,employee363@uptime-solutions.com,Finance,Financial Analyst,Alicia Fisher,Contract,Terminated,2022-06-15,2025-01-23,2,Dismissal,Involuntary,2-3 Years
+381,Darren Moore,employee381@uptime-solutions.com,Sales,Sales Representative,Debra Pratt,Full-Time,Terminated,2020-12-11,2025-12-10,4,Shortage of Work / Layoff / End of Contract,Involuntary,4-5 Years
+415,Andrew Williams,employee415@uptime-solutions.com,Finance,Financial Analyst,Benjamin Cole,Temporary,Terminated,2024-05-16,2026-02-06,1,Strike or Lockout,Involuntary,0-1 Year
+439,Paul Holt,employee439@uptime-solutions.com,Sales,Sales Representative,Tricia Stephens,Contract,Terminated,2022-02-11,2022-02-19,0,Strike or Lockout,Involuntary,0-1 Year
+469,Mary Williams,employee469@uptime-solutions.com,Human Resources,HR Specialist,Tricia Stephens,Temporary,Terminated,2025-11-05,2026-10-31,0,Dismissal,Involuntary,0-1 Year
+476,Amanda Miles,employee476@uptime-solutions.com,Operations,Field Technician,Joseph Archer,Part-Time,Terminated,2023-11-13,2026-12-06,3,Mandatory Retirement / Workforce Reduction,Involuntary,2-3 Years
+486,Randy Smith,employee486@uptime-solutions.com,Operations,Operations Manager,Travis Wheeler,Full-Time,Terminated,2022-09-20,2026-07-06,3,Strike or Lockout,Involuntary,2-3 Years
+31,Jessica Durham,employee31@uptime-solutions.com,Human Resources,HR Specialist,Mark Baker,Full-Time,Terminated,2022-04-25,2024-01-19,1,Parental,Voluntary,0-1 Year
+37,Wesley Jenkins,employee37@uptime-solutions.com,Information Technology,Data Analyst,Benjamin Cole,Part-Time,Terminated,2025-10-21,2026-12-22,1,Compassionate Care / Family Caregiver,Voluntary,0-1 Year
+46,Justin Mckay,employee46@uptime-solutions.com,Finance,Financial Analyst,Travis Wheeler,Part-Time,Terminated,2023-09-07,2026-10-09,3,Compassionate Care / Family Caregiver,Voluntary,2-3 Years
+58,Tonya Wilson,employee58@uptime-solutions.com,Information Technology,Software Developer,Alicia Fisher,Contract,Terminated,2024-04-01,2026-08-08,2,Compassionate Care / Family Caregiver,Voluntary,2-3 Years
+78,Daniel Houston,employee78@uptime-solutions.com,Human Resources,HR Specialist,Joseph Archer,Full-Time,Terminated,2021-11-13,2022-10-20,0,Maternity,Voluntary,0-1 Year
+86,Kimberly Lee,employee86@uptime-solutions.com,Human Resources,HR Specialist,Amy Love,Part-Time,Terminated,2024-04-17,2024-12-20,0,Parental,Voluntary,0-1 Year
+107,Richard Chan,employee107@uptime-solutions.com,Operations,Field Technician,Wesley Lloyd,Full-Time,Terminated,2021-12-11,2025-02-26,3,Compassionate Care / Family Caregiver,Voluntary,2-3 Years
+114,Antonio Horn,employee114@uptime-solutions.com,Sales,Sales Representative,Brenda Odom,Temporary,Terminated,2026-12-10,2026-12-18,0,Maternity,Voluntary,0-1 Year
+138,Jocelyn Clarke,employee138@uptime-solutions.com,Human Resources,HR Specialist,Benjamin Cole,Full-Time,Terminated,2023-02-07,2026-06-01,3,Return to School,Voluntary,2-3 Years
+140,Tyler Taylor,employee140@uptime-solutions.com,Finance,Financial Analyst,Tricia Stephens,Full-Time,Terminated,2025-10-19,2026-02-01,0,Quit,Voluntary,0-1 Year
+148,Thomas Wyatt,employee148@uptime-solutions.com,Information Technology,Data Analyst,Benjamin Cole,Part-Time,Terminated,2025-10-05,2025-10-20,0,Quit,Voluntary,0-1 Year
+149,Kelly Wu,employee149@uptime-solutions.com,Sales,Sales Representative,Jill Romero,Temporary,Terminated,2022-04-20,2025-01-08,2,Quit,Voluntary,2-3 Years
+166,Kimberly Hoover,employee166@uptime-solutions.com,Human Resources,HR Specialist,Travis Wheeler,Full-Time,Terminated,2025-11-15,2026-01-08,0,Leave of Absence,Voluntary,0-1 Year
+185,Carol Marshall,employee185@uptime-solutions.com,Sales,Sales Representative,Amy Love,Contract,Terminated,2024-08-14,2024-12-22,0,Compassionate Care / Family Caregiver,Voluntary,0-1 Year
+201,Kevin Brown,employee201@uptime-solutions.com,Human Resources,HR Specialist,Wesley Lloyd,Part-Time,Terminated,2020-02-06,2022-07-28,2,Return to School,Voluntary,2-3 Years
+225,Robert Freeman,employee225@uptime-solutions.com,Information Technology,Data Analyst,Tricia Stephens,Contract,Terminated,2024-09-19,2026-02-19,1,Parental,Voluntary,0-1 Year
+232,Jennifer Hunter,employee232@uptime-solutions.com,Human Resources,HR Specialist,Wesley Lloyd,Contract,Terminated,2024-09-06,2025-01-15,0,Leave of Absence,Voluntary,0-1 Year
+256,Denise Powell,employee256@uptime-solutions.com,Information Technology,Software Developer,Mark Baker,Full-Time,Terminated,2025-03-15,2025-05-09,0,Quit,Voluntary,0-1 Year
+280,Pamela Smith,employee280@uptime-solutions.com,Finance,Financial Analyst,Mark Baker,Full-Time,Terminated,2021-05-30,2025-02-15,3,Maternity,Voluntary,2-3 Years
+318,Johnny Cobb,employee318@uptime-solutions.com,Human Resources,HR Specialist,Jill Romero,Part-Time,Terminated,2024-06-10,2025-09-16,1,Compassionate Care / Family Caregiver,Voluntary,0-1 Year
+329,Jeremy Rodriguez,employee329@uptime-solutions.com,Sales,Sales Representative,Karen Richardson,Full-Time,Terminated,2020-05-08,2023-06-11,3,Return to School,Voluntary,2-3 Years
+360,Steven Daugherty,employee360@uptime-solutions.com,Information Technology,Data Analyst,Tricia Stephens,Contract,Terminated,2026-10-22,2026-12-08,0,Leave of Absence,Voluntary,0-1 Year
+371,Dawn Howe,employee371@uptime-solutions.com,Information Technology,Data Analyst,Tricia Stephens,Contract,Terminated,2020-07-28,2024-06-03,3,Parental,Voluntary,2-3 Years
+378,Jessica Hunter,employee378@uptime-solutions.com,Information Technology,Data Analyst,Travis Wheeler,Full-Time,Terminated,2023-06-30,2025-02-11,1,Return to School,Voluntary,0-1 Year
+397,Mary Tucker,employee397@uptime-solutions.com,Information Technology,Data Analyst,Michael Shaffer,Contract,Terminated,2026-12-14,2026-12-28,0,Return to School,Voluntary,0-1 Year
+434,Jennifer Horne,employee434@uptime-solutions.com,Human Resources,HR Specialist,Amy Love,Temporary,Terminated,2021-09-15,2022-06-26,0,Parental,Voluntary,0-1 Year
+448,Diana Schmidt,employee448@uptime-solutions.com,Operations,Operations Manager,Karen Richardson,Contract,Terminated,2021-11-12,2025-01-16,3,Return to School,Voluntary,2-3 Years
+455,Rachel Robinson,employee455@uptime-solutions.com,Finance,Financial Analyst,Debra Pratt,Full-Time,Terminated,2021-04-23,2026-11-28,5,Quit,Voluntary,4-5 Years
+491,Bradley Barr,employee491@uptime-solutions.com,Sales,Sales Representative,Richard Dudley,Full-Time,Terminated,2020-01-20,2023-10-12,3,Parental,Voluntary,2-3 Years
+41,Jessica Horton,employee41@uptime-solutions.com,Sales,Sales Representative,Benjamin Cole,Full-Time,Probation,2025-07-28,,1,,Active / Unknown,0-1 Year
+49,Melissa Matthews,employee49@uptime-solutions.com,Information Technology,Software Developer,Jenny Cook,Part-Time,Probation,2025-05-07,,1,,Active / Unknown,0-1 Year
+83,Abigail Jackson,employee83@uptime-solutions.com,Human Resources,HR Specialist,Nicole Smith,Temporary,Probation,2026-08-01,,0,,Active / Unknown,0-1 Year
+87,Jackie Carroll,employee87@uptime-solutions.com,Sales,Sales Representative,Alicia Fisher,Contract,Probation,2025-07-17,,1,,Active / Unknown,0-1 Year
+92,Ashlee Roberts,employee92@uptime-solutions.com,Sales,Sales Representative,Travis Wheeler,Full-Time,Probation,2025-09-29,,0,,Active / Unknown,0-1 Year
+118,Anita Davis,employee118@uptime-solutions.com,Operations,Field Technician,Jill Romero,Contract,Probation,2023-08-13,,3,,Active / Unknown,2-3 Years
+121,Melissa Torres,employee121@uptime-solutions.com,Human Resources,HR Specialist,Richard Dudley,Contract,Probation,2025-10-16,,0,,Active / Unknown,0-1 Year
+127,Tanya Jimenez,employee127@uptime-solutions.com,Finance,Financial Analyst,Alicia Fisher,Contract,Probation,2024-10-23,,1,,Active / Unknown,0-1 Year
+129,Darren Curry,employee129@uptime-solutions.com,Sales,Sales Representative,Brenda Odom,Full-Time,Probation,2026-05-30,,0,,Active / Unknown,0-1 Year
+134,Samantha Hill,employee134@uptime-solutions.com,Finance,Financial Analyst,Debra Pratt,Temporary,Probation,2024-03-28,,2,,Active / Unknown,2-3 Years
+137,Ashley Mccann,employee137@uptime-solutions.com,Information Technology,Data Analyst,Mark Baker,Part-Time,Probation,2026-11-02,,0,,Active / Unknown,0-1 Year
+141,Daniel Lamb,employee141@uptime-solutions.com,Information Technology,Software Developer,Alicia Fisher,Part-Time,Probation,2023-03-20,,3,,Active / Unknown,2-3 Years
+146,Gabriel Baldwin,employee146@uptime-solutions.com,Finance,Financial Analyst,Richard Dudley,Part-Time,Probation,2020-02-18,,6,,Active / Unknown,6+ Years
+155,Michele Austin,employee155@uptime-solutions.com,Operations,Operations Manager,Travis Wheeler,Full-Time,Probation,2020-04-11,,6,,Active / Unknown,6+ Years
+158,Matthew Snyder,employee158@uptime-solutions.com,Finance,Financial Analyst,Michael Shaffer,Full-Time,Probation,2022-04-08,,4,,Active / Unknown,4-5 Years
+162,Rachel Bailey,employee162@uptime-solutions.com,Finance,Financial Analyst,Ian Lyons,Full-Time,Probation,2023-03-29,,3,,Active / Unknown,2-3 Years
+174,Richard Mckinney,employee174@uptime-solutions.com,Finance,Financial Analyst,Mark Baker,Full-Time,Probation,2023-07-28,,3,,Active / Unknown,2-3 Years
+179,Austin Bates,employee179@uptime-solutions.com,Information Technology,Data Analyst,Alicia Fisher,Part-Time,Probation,2023-11-06,,2,,Active / Unknown,2-3 Years
+202,Anthony Anderson,employee202@uptime-solutions.com,Finance,Financial Analyst,Amy Love,Temporary,Probation,2025-10-09,,0,,Active / Unknown,0-1 Year
+210,Kathy Mendoza,employee210@uptime-solutions.com,Human Resources,HR Specialist,Paul Thompson,Temporary,Probation,2023-07-30,,3,,Active / Unknown,2-3 Years
+233,Erin Branch,employee233@uptime-solutions.com,Human Resources,HR Specialist,Alicia Fisher,Temporary,Probation,2026-12-10,,0,,Active / Unknown,0-1 Year
+234,Sarah Floyd,employee234@uptime-solutions.com,Finance,Financial Analyst,Joseph Archer,Part-Time,Probation,2025-01-04,,1,,Active / Unknown,0-1 Year
+242,Heather Yang,employee242@uptime-solutions.com,Human Resources,HR Specialist,Jenny Cook,Contract,Probation,2022-05-23,,4,,Active / Unknown,4-5 Years
+244,Dana Rivera,employee244@uptime-solutions.com,Finance,Financial Analyst,Benjamin Cole,Full-Time,Probation,2023-01-30,,3,,Active / Unknown,2-3 Years
+246,Amy Rasmussen,employee246@uptime-solutions.com,Operations,Field Technician,Benjamin Cole,Temporary,Probation,2021-08-28,,5,,Active / Unknown,4-5 Years
+247,Brandon Hopkins,employee247@uptime-solutions.com,Sales,Sales Representative,Richard Dudley,Part-Time,Probation,2026-05-27,,0,,Active / Unknown,0-1 Year
+250,Cathy Ward,employee250@uptime-solutions.com,Operations,Operations Manager,Mark Baker,Contract,Probation,2023-04-10,,3,,Active / Unknown,2-3 Years
+253,David Kelly,employee253@uptime-solutions.com,Information Technology,Data Analyst,Amy Love,Full-Time,Probation,2026-05-24,,0,,Active / Unknown,0-1 Year
+261,Monica Mcbride,employee261@uptime-solutions.com,Sales,Sales Representative,Paul Thompson,Full-Time,Probation,2025-05-02,,1,,Active / Unknown,0-1 Year
+265,William Decker,employee265@uptime-solutions.com,Human Resources,HR Specialist,Mark Baker,Contract,Probation,2021-04-12,,5,,Active / Unknown,4-5 Years
+274,Joshua Reid,employee274@uptime-solutions.com,Operations,Operations Manager,Jill Romero,Part-Time,Probation,2026-06-04,,0,,Active / Unknown,0-1 Year
+283,Cheryl Mckinney,employee283@uptime-solutions.com,Operations,Operations Manager,Tricia Stephens,Temporary,Probation,2023-09-11,,2,,Active / Unknown,2-3 Years
+296,Robert Holden,employee296@uptime-solutions.com,Operations,Field Technician,Tricia Stephens,Full-Time,Probation,2020-10-29,,5,,Active / Unknown,4-5 Years
+299,Dylan Robles,employee299@uptime-solutions.com,Sales,Sales Representative,Michael Shaffer,Part-Time,Probation,2025-02-07,,1,,Active / Unknown,0-1 Year
+304,Jill Hernandez,employee304@uptime-solutions.com,Human Resources,HR Specialist,Karen Richardson,Full-Time,Probation,2020-12-03,,5,,Active / Unknown,4-5 Years
+312,William Pace,employee312@uptime-solutions.com,Operations,Operations Manager,Mark Baker,Part-Time,Probation,2026-11-25,,0,,Active / Unknown,0-1 Year
+323,Megan Esparza,employee323@uptime-solutions.com,Operations,Field Technician,Kevin Miller,Contract,Probation,2026-10-28,,0,,Active / Unknown,0-1 Year
+339,Mike Wilson,employee339@uptime-solutions.com,Sales,Sales Representative,Ian Lyons,Part-Time,Probation,2022-09-25,,3,,Active / Unknown,2-3 Years
+342,Michael Williams,employee342@uptime-solutions.com,Information Technology,Data Analyst,Joseph Archer,Part-Time,Probation,2020-05-21,,6,,Active / Unknown,6+ Years
+345,Loretta Sanders,employee345@uptime-solutions.com,Finance,Financial Analyst,Michael Shaffer,Full-Time,Probation,2025-03-15,,1,,Active / Unknown,0-1 Year
+353,Amanda Preston,employee353@uptime-solutions.com,Operations,Field Technician,Tricia Stephens,Contract,Probation,2021-09-22,,4,,Active / Unknown,4-5 Years
+354,Patrick Cook,employee354@uptime-solutions.com,Operations,Field Technician,Benjamin Cole,Contract,Probation,2023-02-17,,3,,Active / Unknown,2-3 Years
+376,Michael Pugh,employee376@uptime-solutions.com,Sales,Sales Representative,Mark Baker,Temporary,Probation,2025-07-17,,1,,Active / Unknown,0-1 Year
+377,Andrew Cantu,employee377@uptime-solutions.com,Finance,Financial Analyst,Melissa Harris,Temporary,Probation,2021-07-24,,5,,Active / Unknown,4-5 Years
+389,Kenneth Rivera,employee389@uptime-solutions.com,Information Technology,Data Analyst,Nicole Smith,Full-Time,Probation,2021-06-07,,5,,Active / Unknown,4-5 Years
+395,Joshua Santiago,employee395@uptime-solutions.com,Operations,Field Technician,Nicole Smith,Part-Time,Probation,2020-08-05,,6,,Active / Unknown,6+ Years
+406,Anthony Black,employee406@uptime-solutions.com,Information Technology,Software Developer,Jenny Cook,Part-Time,Probation,2020-01-02,,6,,Active / Unknown,6+ Years
+407,Steven Lane,employee407@uptime-solutions.com,Sales,Sales Representative,Ian Lyons,Full-Time,Probation,2020-08-03,,6,,Active / Unknown,6+ Years
+410,Marie Rodriguez,employee410@uptime-solutions.com,Information Technology,Software Developer,Joseph Archer,Part-Time,Probation,2024-12-23,,1,,Active / Unknown,0-1 Year
+418,Joseph Powell,employee418@uptime-solutions.com,Finance,Financial Analyst,Alicia Fisher,Part-Time,Probation,2026-09-09,,0,,Active / Unknown,0-1 Year
+421,Anthony Curry,employee421@uptime-solutions.com,Operations,Field Technician,Debra Pratt,Full-Time,Probation,2023-04-30,,3,,Active / Unknown,2-3 Years
+422,Margaret Gray,employee422@uptime-solutions.com,Operations,Field Technician,Kevin Miller,Part-Time,Probation,2026-05-17,,0,,Active / Unknown,0-1 Year
+430,Terri Howell,employee430@uptime-solutions.com,Human Resources,HR Specialist,Tricia Stephens,Full-Time,Probation,2022-01-31,,4,,Active / Unknown,4-5 Years
+435,Vanessa Hickman,employee435@uptime-solutions.com,Human Resources,HR Specialist,Tricia Stephens,Full-Time,Probation,2021-11-08,,4,,Active / Unknown,4-5 Years
+442,Ronald Gross,employee442@uptime-solutions.com,Information Technology,Software Developer,Mark Baker,Temporary,Probation,2025-04-07,,1,,Active / Unknown,0-1 Year
+449,Allison King,employee449@uptime-solutions.com,Operations,Operations Manager,Richard Dudley,Contract,Probation,2023-09-14,,2,,Active / Unknown,2-3 Years
+457,Gabriel Williams,employee457@uptime-solutions.com,Operations,Field Technician,Wesley Lloyd,Contract,Probation,2020-01-26,,6,,Active / Unknown,6+ Years
+478,Steven Williams,employee478@uptime-solutions.com,Information Technology,Data Analyst,Brenda Odom,Temporary,Probation,2020-11-15,,5,,Active / Unknown,4-5 Years
+483,Erika Nunez,employee483@uptime-solutions.com,Information Technology,Software Developer,Nicole Smith,Contract,Probation,2020-07-14,,6,,Active / Unknown,6+ Years
+484,Nicholas Williams,employee484@uptime-solutions.com,Finance,Financial Analyst,Joseph Archer,Full-Time,Probation,2026-12-31,,0,,Active / Unknown,0-1 Year
+489,William Gordon,employee489@uptime-solutions.com,Finance,Financial Analyst,Travis Wheeler,Contract,Probation,2021-12-10,,4,,Active / Unknown,4-5 Years
+1,Kevin Miller,employee1@uptime-solutions.com,Operations,Operations Manager,No Manager,Full-Time,Active,2017-02-06,,9,,Active / Unknown,6+ Years
+2,Mark Baker,employee2@uptime-solutions.com,Finance,Financial Analyst,No Manager,Temporary,Active,2017-06-16,,9,,Active / Unknown,6+ Years
+3,Ian Lyons,employee3@uptime-solutions.com,Operations,Operations Manager,No Manager,Temporary,Active,2018-05-26,,8,,Active / Unknown,6+ Years
+4,Wesley Lloyd,employee4@uptime-solutions.com,Operations,Field Technician,No Manager,Contract,Active,2017-05-17,,9,,Active / Unknown,6+ Years
+5,Tricia Stephens,employee5@uptime-solutions.com,Information Technology,Data Analyst,No Manager,Contract,Active,2019-01-01,,7,,Active / Unknown,6+ Years
+6,Joseph Archer,employee6@uptime-solutions.com,Finance,Financial Analyst,No Manager,Temporary,Active,2018-05-13,,8,,Active / Unknown,6+ Years
+7,Travis Wheeler,employee7@uptime-solutions.com,Finance,Financial Analyst,No Manager,Contract,Active,2019-12-27,,6,,Active / Unknown,6+ Years
+8,Jenny Cook,employee8@uptime-solutions.com,Human Resources,HR Specialist,No Manager,Contract,Active,2018-06-06,,8,,Active / Unknown,6+ Years
+9,Paul Thompson,employee9@uptime-solutions.com,Human Resources,HR Specialist,No Manager,Full-Time,Active,2017-03-13,,9,,Active / Unknown,6+ Years
+10,Jill Romero,employee10@uptime-solutions.com,Sales,Sales Representative,No Manager,Temporary,Active,2017-05-19,,9,,Active / Unknown,6+ Years
+12,Benjamin Cole,employee12@uptime-solutions.com,Operations,Operations Manager,No Manager,Contract,Active,2017-01-10,,9,,Active / Unknown,6+ Years
+14,Richard Dudley,employee14@uptime-solutions.com,Human Resources,HR Specialist,No Manager,Part-Time,Active,2020-08-03,,6,,Active / Unknown,6+ Years
+15,Brenda Odom,employee15@uptime-solutions.com,Human Resources,HR Specialist,No Manager,Contract,Active,2017-02-19,,9,,Active / Unknown,6+ Years
+16,Michael Shaffer,employee16@uptime-solutions.com,Information Technology,Software Developer,No Manager,Full-Time,Active,2019-08-24,,7,,Active / Unknown,6+ Years
+17,Debra Pratt,employee17@uptime-solutions.com,Information Technology,Data Analyst,No Manager,Contract,Active,2017-09-24,,8,,Active / Unknown,6+ Years
+18,Karen Richardson,employee18@uptime-solutions.com,Finance,Financial Analyst,No Manager,Contract,Active,2020-01-07,,6,,Active / Unknown,6+ Years
+19,Alicia Fisher,employee19@uptime-solutions.com,Human Resources,HR Specialist,No Manager,Full-Time,Active,2017-11-10,,8,,Active / Unknown,6+ Years
+20,Amy Love,employee20@uptime-solutions.com,Information Technology,Software Developer,No Manager,Temporary,Active,2019-05-04,,7,,Active / Unknown,6+ Years
+27,Luke Malone,employee27@uptime-solutions.com,Operations,Operations Manager,Melissa Harris,Temporary,Active,2021-12-10,,4,,Active / Unknown,4-5 Years
+29,Christopher Davis,employee29@uptime-solutions.com,Information Technology,Data Analyst,Melissa Harris,Full-Time,Active,2021-12-08,,4,,Active / Unknown,4-5 Years
+95,Stephanie Anthony,employee95@uptime-solutions.com,Sales,Sales Representative,Melissa Harris,Full-Time,Active,2023-07-11,,3,,Active / Unknown,2-3 Years
+145,Carla Collins,employee145@uptime-solutions.com,Information Technology,Software Developer,Melissa Harris,Temporary,Active,2022-05-01,,4,,Active / Unknown,4-5 Years
+183,Erica Moore,employee183@uptime-solutions.com,Sales,Sales Representative,Melissa Harris,Temporary,Active,2020-08-28,,6,,Active / Unknown,6+ Years
+200,Antonio Greer,employee200@uptime-solutions.com,Sales,Sales Representative,Melissa Harris,Temporary,Active,2025-06-23,,1,,Active / Unknown,0-1 Year
+211,Erin Roberson,employee211@uptime-solutions.com,Information Technology,Data Analyst,Melissa Harris,Part-Time,Active,2025-02-13,,1,,Active / Unknown,0-1 Year
+295,Julie Carey,employee295@uptime-solutions.com,Human Resources,HR Specialist,Melissa Harris,Full-Time,Active,2020-03-22,,6,,Active / Unknown,6+ Years
+305,Joshua Hickman,employee305@uptime-solutions.com,Information Technology,Software Developer,Melissa Harris,Full-Time,Active,2020-07-19,,6,,Active / Unknown,6+ Years
+316,Jennifer Myers,employee316@uptime-solutions.com,Information Technology,Software Developer,Melissa Harris,Part-Time,Active,2025-08-29,,1,,Active / Unknown,0-1 Year
+350,Julie Bowers,employee350@uptime-solutions.com,Finance,Financial Analyst,Melissa Harris,Part-Time,Active,2021-11-20,,4,,Active / Unknown,4-5 Years
+356,Lori Turner,employee356@uptime-solutions.com,Operations,Field Technician,Melissa Harris,Full-Time,Active,2024-10-23,,1,,Active / Unknown,0-1 Year
+375,Danny Cruz,employee375@uptime-solutions.com,Finance,Financial Analyst,Melissa Harris,Contract,Active,2022-03-29,,4,,Active / Unknown,4-5 Years
+383,John Ryan,employee383@uptime-solutions.com,Finance,Financial Analyst,Melissa Harris,Part-Time,Active,2022-11-02,,3,,Active / Unknown,2-3 Years
+385,Alyssa Lopez,employee385@uptime-solutions.com,Finance,Financial Analyst,Melissa Harris,Part-Time,Active,2024-11-20,,1,,Active / Unknown,0-1 Year
+451,Sarah Hall,employee451@uptime-solutions.com,Operations,Field Technician,Melissa Harris,Part-Time,Active,2022-07-28,,4,,Active / Unknown,4-5 Years
+496,Joshua Foster,employee496@uptime-solutions.com,Finance,Financial Analyst,Melissa Harris,Full-Time,Active,2020-07-01,,6,,Active / Unknown,6+ Years
+21,George Robinson,employee21@uptime-solutions.com,Finance,Financial Analyst,Kevin Miller,Temporary,Active,2022-07-04,,4,,Active / Unknown,4-5 Years
+23,Christopher Scott,employee23@uptime-solutions.com,Information Technology,Software Developer,Benjamin Cole,Full-Time,Active,2022-12-28,,3,,Active / Unknown,2-3 Years
+32,Brian Roberts,employee32@uptime-solutions.com,Information Technology,Data Analyst,Nicole Smith,Full-Time,Active,2025-07-11,,1,,Active / Unknown,0-1 Year
+33,Ashley Thompson,employee33@uptime-solutions.com,Information Technology,Data Analyst,Mark Baker,Full-Time,Active,2025-07-29,,1,,Active / Unknown,0-1 Year
+34,Kimberly Gutierrez,employee34@uptime-solutions.com,Information Technology,Data Analyst,Mark Baker,Part-Time,Active,2023-03-11,,3,,Active / Unknown,2-3 Years
+35,Craig Nelson,employee35@uptime-solutions.com,Human Resources,HR Specialist,Tricia Stephens,Part-Time,Active,2024-10-25,,1,,Active / Unknown,0-1 Year
+36,Michael Mcdonald,employee36@uptime-solutions.com,Human Resources,HR Specialist,Alicia Fisher,Temporary,Active,2020-08-18,,6,,Active / Unknown,6+ Years
+39,James Owens,employee39@uptime-solutions.com,Operations,Field Technician,Jill Romero,Temporary,Active,2022-03-03,,4,,Active / Unknown,4-5 Years
+42,Thomas Lee,employee42@uptime-solutions.com,Sales,Sales Representative,Ian Lyons,Part-Time,Active,2020-08-09,,6,,Active / Unknown,6+ Years
+47,Sandra Riley,employee47@uptime-solutions.com,Information Technology,Software Developer,Jenny Cook,Contract,Active,2025-08-12,,1,,Active / Unknown,0-1 Year
+48,Laurie Harrison,employee48@uptime-solutions.com,Finance,Financial Analyst,Michael Shaffer,Part-Time,Active,2020-04-17,,6,,Active / Unknown,6+ Years
+50,Courtney Mccall,employee50@uptime-solutions.com,Human Resources,HR Specialist,Richard Dudley,Full-Time,Active,2024-10-06,,1,,Active / Unknown,0-1 Year
+52,Matthew Montgomery,employee52@uptime-solutions.com,Finance,Financial Analyst,Paul Thompson,Contract,Active,2022-03-02,,4,,Active / Unknown,4-5 Years
+53,Anthony Butler,employee53@uptime-solutions.com,Information Technology,Software Developer,Travis Wheeler,Contract,Active,2020-08-25,,6,,Active / Unknown,6+ Years
+54,Evelyn Burton,employee54@uptime-solutions.com,Human Resources,HR Specialist,Wesley Lloyd,Contract,Active,2022-12-15,,3,,Active / Unknown,2-3 Years
+55,Angela Dixon,employee55@uptime-solutions.com,Human Resources,HR Specialist,Alicia Fisher,Contract,Active,2021-12-31,,4,,Active / Unknown,4-5 Years
+56,Cheryl Branch,employee56@uptime-solutions.com,Operations,Field Technician,Wesley Lloyd,Full-Time,Active,2025-05-20,,1,,Active / Unknown,0-1 Year
+59,Ronald Oconnor,employee59@uptime-solutions.com,Finance,Financial Analyst,Jenny Cook,Part-Time,Active,2025-01-09,,1,,Active / Unknown,0-1 Year
+60,Michele White,employee60@uptime-solutions.com,Sales,Sales Representative,Jenny Cook,Full-Time,Active,2021-12-05,,4,,Active / Unknown,4-5 Years
+61,Eric Tanner,employee61@uptime-solutions.com,Finance,Financial Analyst,Michael Shaffer,Part-Time,Active,2025-01-12,,1,,Active / Unknown,0-1 Year
+62,Leslie Carter,employee62@uptime-solutions.com,Finance,Financial Analyst,Nicole Smith,Part-Time,Active,2024-09-14,,1,,Active / Unknown,0-1 Year
+63,Nathaniel Johnson,employee63@uptime-solutions.com,Human Resources,HR Specialist,Joseph Archer,Part-Time,Active,2020-04-03,,6,,Active / Unknown,6+ Years
+65,Linda King,employee65@uptime-solutions.com,Information Technology,Software Developer,Nicole Smith,Contract,Active,2022-10-23,,3,,Active / Unknown,2-3 Years
+67,Anne Stevens,employee67@uptime-solutions.com,Sales,Sales Representative,Amy Love,Contract,Active,2022-11-19,,3,,Active / Unknown,2-3 Years
+70,Luis Barry,employee70@uptime-solutions.com,Operations,Operations Manager,Ian Lyons,Contract,Active,2025-05-28,,1,,Active / Unknown,0-1 Year
+75,Jonathan Santos,employee75@uptime-solutions.com,Information Technology,Software Developer,Wesley Lloyd,Contract,Active,2020-09-01,,6,,Active / Unknown,6+ Years
+76,Bradley Clark,employee76@uptime-solutions.com,Human Resources,HR Specialist,Mark Baker,Temporary,Active,2022-10-05,,3,,Active / Unknown,2-3 Years
+82,Claire Jones,employee82@uptime-solutions.com,Human Resources,HR Specialist,Tricia Stephens,Temporary,Active,2021-10-22,,4,,Active / Unknown,4-5 Years
+89,Ruben Summers,employee89@uptime-solutions.com,Information Technology,Software Developer,Wesley Lloyd,Temporary,Active,2024-10-29,,1,,Active / Unknown,0-1 Year
+90,Sharon Hunter,employee90@uptime-solutions.com,Sales,Sales Representative,Travis Wheeler,Temporary,Active,2022-09-30,,3,,Active / Unknown,2-3 Years
+100,Courtney Smith,employee100@uptime-solutions.com,Sales,Sales Representative,Paul Thompson,Full-Time,Active,2020-03-13,,6,,Active / Unknown,6+ Years
+104,Justin Hernandez,employee104@uptime-solutions.com,Sales,Sales Representative,Kevin Miller,Full-Time,Active,2023-02-09,,3,,Active / Unknown,2-3 Years
+105,Billy Patton,employee105@uptime-solutions.com,Finance,Financial Analyst,Mark Baker,Contract,Active,2020-06-17,,6,,Active / Unknown,6+ Years
+108,Shelia Beard,employee108@uptime-solutions.com,Sales,Sales Representative,Tricia Stephens,Full-Time,Active,2023-03-18,,3,,Active / Unknown,2-3 Years
+110,Leonard West,employee110@uptime-solutions.com,Operations,Operations Manager,Joseph Archer,Temporary,Active,2025-08-12,,1,,Active / Unknown,0-1 Year
+112,Elizabeth White,employee112@uptime-solutions.com,Sales,Sales Representative,Michael Shaffer,Contract,Active,2024-11-04,,1,,Active / Unknown,0-1 Year
+115,Kevin Simon,employee115@uptime-solutions.com,Information Technology,Data Analyst,Ian Lyons,Contract,Active,2020-07-04,,6,,Active / Unknown,6+ Years
+120,Emily Long,employee120@uptime-solutions.com,Operations,Operations Manager,Paul Thompson,Part-Time,Active,2020-08-15,,6,,Active / Unknown,6+ Years
+124,Brian Sanchez,employee124@uptime-solutions.com,Operations,Operations Manager,Debra Pratt,Contract,Active,2020-05-08,,6,,Active / Unknown,6+ Years
+125,Roberto Sanchez,employee125@uptime-solutions.com,Finance,Financial Analyst,Benjamin Cole,Part-Time,Active,2024-11-10,,1,,Active / Unknown,0-1 Year
+126,Joshua Stanley,employee126@uptime-solutions.com,Finance,Financial Analyst,Kevin Miller,Contract,Active,2025-05-03,,1,,Active / Unknown,0-1 Year
+151,Chad Richardson,employee151@uptime-solutions.com,Operations,Field Technician,Alicia Fisher,Temporary,Active,2022-05-22,,4,,Active / Unknown,4-5 Years
+153,John Martin,employee153@uptime-solutions.com,Human Resources,HR Specialist,Karen Richardson,Part-Time,Active,2023-03-12,,3,,Active / Unknown,2-3 Years
+154,Deborah Baker,employee154@uptime-solutions.com,Finance,Financial Analyst,Wesley Lloyd,Part-Time,Active,2025-05-15,,1,,Active / Unknown,0-1 Year
+156,Deanna Meyers,employee156@uptime-solutions.com,Human Resources,HR Specialist,Mark Baker,Part-Time,Active,2020-06-15,,6,,Active / Unknown,6+ Years
+157,David Adkins,employee157@uptime-solutions.com,Finance,Financial Analyst,Benjamin Cole,Contract,Active,2023-04-13,,3,,Active / Unknown,2-3 Years
+159,Eric Avila,employee159@uptime-solutions.com,Sales,Sales Representative,Brenda Odom,Full-Time,Active,2022-06-21,,4,,Active / Unknown,4-5 Years
+164,James Brown,employee164@uptime-solutions.com,Finance,Financial Analyst,Wesley Lloyd,Part-Time,Active,2022-08-22,,4,,Active / Unknown,4-5 Years
+169,John Warner,employee169@uptime-solutions.com,Sales,Sales Representative,Richard Dudley,Contract,Active,2020-01-29,,6,,Active / Unknown,6+ Years
+170,Michelle Kirby,employee170@uptime-solutions.com,Operations,Operations Manager,Jill Romero,Part-Time,Active,2022-09-10,,3,,Active / Unknown,2-3 Years
+171,Derek Stewart,employee171@uptime-solutions.com,Finance,Financial Analyst,Paul Thompson,Part-Time,Active,2023-01-01,,3,,Active / Unknown,2-3 Years
+172,Rachel Smith,employee172@uptime-solutions.com,Operations,Operations Manager,Wesley Lloyd,Full-Time,Active,2023-07-13,,3,,Active / Unknown,2-3 Years
+175,Frank Rodriguez,employee175@uptime-solutions.com,Operations,Operations Manager,Travis Wheeler,Contract,Active,2020-02-21,,6,,Active / Unknown,6+ Years
+176,Jerome Raymond,employee176@uptime-solutions.com,Human Resources,HR Specialist,Paul Thompson,Part-Time,Active,2020-03-27,,6,,Active / Unknown,6+ Years
+177,Sean Frost,employee177@uptime-solutions.com,Human Resources,HR Specialist,Wesley Lloyd,Part-Time,Active,2024-12-22,,1,,Active / Unknown,0-1 Year
+180,James Stokes,employee180@uptime-solutions.com,Sales,Sales Representative,Mark Baker,Part-Time,Active,2025-01-22,,1,,Active / Unknown,0-1 Year
+182,Karen Donaldson,employee182@uptime-solutions.com,Sales,Sales Representative,Alicia Fisher,Temporary,Active,2023-05-21,,3,,Active / Unknown,2-3 Years
+189,Glenn Williams,employee189@uptime-solutions.com,Information Technology,Data Analyst,Alicia Fisher,Part-Time,Active,2023-01-02,,3,,Active / Unknown,2-3 Years
+190,Judy Benton,employee190@uptime-solutions.com,Operations,Field Technician,Debra Pratt,Temporary,Active,2024-12-28,,1,,Active / Unknown,0-1 Year
+191,Matthew Jacobson,employee191@uptime-solutions.com,Finance,Financial Analyst,Ian Lyons,Contract,Active,2021-12-12,,4,,Active / Unknown,4-5 Years
+199,Jordan Ramos,employee199@uptime-solutions.com,Operations,Operations Manager,Joseph Archer,Contract,Active,2022-08-28,,4,,Active / Unknown,4-5 Years
+203,Monique Fowler,employee203@uptime-solutions.com,Sales,Sales Representative,Amy Love,Part-Time,Active,2023-05-15,,3,,Active / Unknown,2-3 Years
+217,Patricia Meyer,employee217@uptime-solutions.com,Operations,Operations Manager,Jill Romero,Full-Time,Active,2022-05-05,,4,,Active / Unknown,4-5 Years
+219,Patricia Davis,employee219@uptime-solutions.com,Operations,Operations Manager,Kevin Miller,Full-Time,Active,2020-06-12,,6,,Active / Unknown,6+ Years
+220,Mark Welch,employee220@uptime-solutions.com,Operations,Operations Manager,Jenny Cook,Temporary,Active,2021-09-30,,4,,Active / Unknown,4-5 Years
+221,Jeremy Salazar,employee221@uptime-solutions.com,Sales,Sales Representative,Mark Baker,Temporary,Active,2025-03-05,,1,,Active / Unknown,0-1 Year
+222,Brandon Armstrong,employee222@uptime-solutions.com,Operations,Operations Manager,Richard Dudley,Full-Time,Active,2020-02-22,,6,,Active / Unknown,6+ Years
+223,Thomas Wagner,employee223@uptime-solutions.com,Information Technology,Data Analyst,Jill Romero,Temporary,Active,2021-09-24,,4,,Active / Unknown,4-5 Years
+226,Derek Simon,employee226@uptime-solutions.com,Human Resources,HR Specialist,Benjamin Cole,Contract,Active,2023-01-05,,3,,Active / Unknown,2-3 Years
+227,Charles Jennings,employee227@uptime-solutions.com,Information Technology,Software Developer,Benjamin Cole,Part-Time,Active,2020-04-17,,6,,Active / Unknown,6+ Years
+228,Samuel Rodriguez,employee228@uptime-solutions.com,Information Technology,Data Analyst,Karen Richardson,Temporary,Active,2025-01-14,,1,,Active / Unknown,0-1 Year
+230,Laurie Morton,employee230@uptime-solutions.com,Sales,Sales Representative,Karen Richardson,Part-Time,Active,2023-08-03,,3,,Active / Unknown,2-3 Years
+238,Katherine Moore,employee238@uptime-solutions.com,Finance,Financial Analyst,Mark Baker,Part-Time,Active,2021-12-14,,4,,Active / Unknown,4-5 Years
+239,Shannon Padilla,employee239@uptime-solutions.com,Operations,Field Technician,Ian Lyons,Full-Time,Active,2022-05-30,,4,,Active / Unknown,4-5 Years
+240,Katie Johnson,employee240@uptime-solutions.com,Finance,Financial Analyst,Michael Shaffer,Full-Time,Active,2024-11-10,,1,,Active / Unknown,0-1 Year
+254,Madison Rodriguez,employee254@uptime-solutions.com,Information Technology,Software Developer,Joseph Archer,Part-Time,Active,2023-09-03,,3,,Active / Unknown,2-3 Years
+258,Bill Johnson,employee258@uptime-solutions.com,Information Technology,Software Developer,Richard Dudley,Contract,Active,2021-12-22,,4,,Active / Unknown,4-5 Years
+259,Ashley Holloway,employee259@uptime-solutions.com,Operations,Operations Manager,Paul Thompson,Part-Time,Active,2022-07-19,,4,,Active / Unknown,4-5 Years
+263,John Hoffman,employee263@uptime-solutions.com,Finance,Financial Analyst,Benjamin Cole,Contract,Active,2025-07-30,,1,,Active / Unknown,0-1 Year
+264,Jeffrey Tate,employee264@uptime-solutions.com,Sales,Sales Representative,Richard Dudley,Temporary,Active,2022-02-14,,4,,Active / Unknown,4-5 Years
+266,Matthew Alvarado,employee266@uptime-solutions.com,Operations,Operations Manager,Paul Thompson,Temporary,Active,2023-07-13,,3,,Active / Unknown,2-3 Years
+267,Melissa Olsen,employee267@uptime-solutions.com,Operations,Operations Manager,Mark Baker,Contract,Active,2022-04-27,,4,,Active / Unknown,4-5 Years
+271,Dwayne Parks,employee271@uptime-solutions.com,Finance,Financial Analyst,Debra Pratt,Full-Time,Active,2025-07-24,,1,,Active / Unknown,0-1 Year
+272,Pamela Henderson,employee272@uptime-solutions.com,Human Resources,HR Specialist,Benjamin Cole,Contract,Active,2020-05-25,,6,,Active / Unknown,6+ Years
+275,Andrew Wagner,employee275@uptime-solutions.com,Finance,Financial Analyst,Michael Shaffer,Part-Time,Active,2020-08-11,,6,,Active / Unknown,6+ Years
+276,Carlos Flores,employee276@uptime-solutions.com,Information Technology,Software Developer,Wesley Lloyd,Part-Time,Active,2022-09-05,,3,,Active / Unknown,2-3 Years
+289,Jeffrey Hicks,employee289@uptime-solutions.com,Finance,Financial Analyst,Alicia Fisher,Full-Time,Active,2020-04-25,,6,,Active / Unknown,6+ Years
+290,John Charles,employee290@uptime-solutions.com,Sales,Sales Representative,Paul Thompson,Temporary,Active,2022-04-14,,4,,Active / Unknown,4-5 Years
+293,Jennifer Hernandez,employee293@uptime-solutions.com,Finance,Financial Analyst,Jill Romero,Full-Time,Active,2020-05-17,,6,,Active / Unknown,6+ Years
+297,Erica Watts,employee297@uptime-solutions.com,Operations,Field Technician,Travis Wheeler,Full-Time,Active,2020-09-04,,6,,Active / Unknown,6+ Years
+302,Ashley Stevens,employee302@uptime-solutions.com,Information Technology,Data Analyst,Wesley Lloyd,Part-Time,Active,2023-05-18,,3,,Active / Unknown,2-3 Years
+303,Gary Blake,employee303@uptime-solutions.com,Finance,Financial Analyst,Michael Shaffer,Temporary,Active,2020-04-16,,6,,Active / Unknown,6+ Years
+306,Michael Tapia,employee306@uptime-solutions.com,Information Technology,Software Developer,Richard Dudley,Temporary,Active,2021-09-21,,4,,Active / Unknown,4-5 Years
+307,Kristy Kelley,employee307@uptime-solutions.com,Operations,Operations Manager,Jenny Cook,Temporary,Active,2020-05-27,,6,,Active / Unknown,6+ Years
+308,Jeremy Tucker,employee308@uptime-solutions.com,Sales,Sales Representative,Nicole Smith,Part-Time,Active,2022-06-16,,4,,Active / Unknown,4-5 Years
+310,Christian Cowan,employee310@uptime-solutions.com,Information Technology,Software Developer,Jenny Cook,Part-Time,Active,2022-02-07,,4,,Active / Unknown,4-5 Years
+311,Nathan Wiley,employee311@uptime-solutions.com,Sales,Sales Representative,Wesley Lloyd,Contract,Active,2023-02-01,,3,,Active / Unknown,2-3 Years
+315,Monica Robles,employee315@uptime-solutions.com,Finance,Financial Analyst,Mark Baker,Temporary,Active,2023-03-04,,3,,Active / Unknown,2-3 Years
+321,James Mueller,employee321@uptime-solutions.com,Information Technology,Data Analyst,Amy Love,Contract,Active,2022-05-30,,4,,Active / Unknown,4-5 Years
+322,John Carpenter,employee322@uptime-solutions.com,Information Technology,Software Developer,Karen Richardson,Part-Time,Active,2020-01-02,,6,,Active / Unknown,6+ Years
+324,Kathy Ross,employee324@uptime-solutions.com,Information Technology,Software Developer,Paul Thompson,Full-Time,Active,2023-08-06,,3,,Active / Unknown,2-3 Years
+325,Erica Sellers,employee325@uptime-solutions.com,Operations,Operations Manager,Alicia Fisher,Contract,Active,2025-06-07,,1,,Active / Unknown,0-1 Year
+331,Paul Taylor,employee331@uptime-solutions.com,Finance,Financial Analyst,Karen Richardson,Full-Time,Active,2025-06-26,,1,,Active / Unknown,0-1 Year
+333,Jill Bridges,employee333@uptime-solutions.com,Finance,Financial Analyst,Tricia Stephens,Temporary,Active,2020-04-21,,6,,Active / Unknown,6+ Years
+334,Jacob Hernandez,employee334@uptime-solutions.com,Information Technology,Software Developer,Richard Dudley,Temporary,Active,2020-04-04,,6,,Active / Unknown,6+ Years
+338,Scott White,employee338@uptime-solutions.com,Human Resources,HR Specialist,Wesley Lloyd,Full-Time,Active,2023-01-07,,3,,Active / Unknown,2-3 Years
+343,Sierra Trevino,employee343@uptime-solutions.com,Human Resources,HR Specialist,Jill Romero,Contract,Active,2022-10-02,,3,,Active / Unknown,2-3 Years
+347,Amy Guerra,employee347@uptime-solutions.com,Information Technology,Software Developer,Jenny Cook,Full-Time,Active,2025-04-20,,1,,Active / Unknown,0-1 Year
+348,Teresa Ware,employee348@uptime-solutions.com,Human Resources,HR Specialist,Mark Baker,Contract,Active,2022-12-09,,3,,Active / Unknown,2-3 Years
+349,Bonnie Watts,employee349@uptime-solutions.com,Operations,Field Technician,Tricia Stephens,Part-Time,Active,2021-11-16,,4,,Active / Unknown,4-5 Years
+352,Kristine Hernandez,employee352@uptime-solutions.com,Operations,Operations Manager,Benjamin Cole,Temporary,Active,2025-05-08,,1,,Active / Unknown,0-1 Year
+357,Emily Wilson,employee357@uptime-solutions.com,Finance,Financial Analyst,Mark Baker,Part-Time,Active,2023-07-26,,3,,Active / Unknown,2-3 Years
+359,Thomas Skinner,employee359@uptime-solutions.com,Operations,Field Technician,Kevin Miller,Temporary,Active,2020-03-18,,6,,Active / Unknown,6+ Years
+362,Daniel Cox,employee362@uptime-solutions.com,Operations,Field Technician,Amy Love,Temporary,Active,2025-08-28,,1,,Active / Unknown,0-1 Year
+364,Natalie Hamilton,employee364@uptime-solutions.com,Sales,Sales Representative,Michael Shaffer,Contract,Active,2021-10-07,,4,,Active / Unknown,4-5 Years
+365,Alexander Thornton,employee365@uptime-solutions.com,Operations,Field Technician,Amy Love,Temporary,Active,2020-03-05,,6,,Active / Unknown,6+ Years
+367,Catherine Campbell,employee367@uptime-solutions.com,Information Technology,Data Analyst,Kevin Miller,Full-Time,Active,2022-11-09,,3,,Active / Unknown,2-3 Years
+374,Stacey Lang,employee374@uptime-solutions.com,Operations,Field Technician,Wesley Lloyd,Temporary,Active,2023-08-17,,3,,Active / Unknown,2-3 Years
+379,Rebecca Scott,employee379@uptime-solutions.com,Operations,Field Technician,Amy Love,Part-Time,Active,2023-01-05,,3,,Active / Unknown,2-3 Years
+384,Kristen Johnson,employee384@uptime-solutions.com,Information Technology,Software Developer,Brenda Odom,Contract,Active,2020-05-12,,6,,Active / Unknown,6+ Years
+388,Connor Howard,employee388@uptime-solutions.com,Operations,Operations Manager,Mark Baker,Full-Time,Active,2024-09-05,,1,,Active / Unknown,0-1 Year
+393,Gregory Phillips,employee393@uptime-solutions.com,Operations,Field Technician,Kevin Miller,Temporary,Active,2023-04-20,,3,,Active / Unknown,2-3 Years
+396,Michelle Anderson,employee396@uptime-solutions.com,Sales,Sales Representative,Jill Romero,Part-Time,Active,2022-03-05,,4,,Active / Unknown,4-5 Years
+398,Marie Ward,employee398@uptime-solutions.com,Operations,Operations Manager,Tricia Stephens,Contract,Active,2025-04-26,,1,,Active / Unknown,0-1 Year
+399,Vincent Strickland,employee399@uptime-solutions.com,Finance,Financial Analyst,Amy Love,Contract,Active,2020-06-11,,6,,Active / Unknown,6+ Years
+400,Barbara Campos,employee400@uptime-solutions.com,Human Resources,HR Specialist,Nicole Smith,Contract,Active,2025-01-30,,1,,Active / Unknown,0-1 Year
+401,Richard Hayes,employee401@uptime-solutions.com,Information Technology,Software Developer,Ian Lyons,Part-Time,Active,2023-07-29,,3,,Active / Unknown,2-3 Years
+403,Travis Moore,employee403@uptime-solutions.com,Finance,Financial Analyst,Travis Wheeler,Part-Time,Active,2021-11-16,,4,,Active / Unknown,4-5 Years
+405,David Freeman,employee405@uptime-solutions.com,Operations,Field Technician,Tricia Stephens,Contract,Active,2025-04-01,,1,,Active / Unknown,0-1 Year
+413,Heather Brown,employee413@uptime-solutions.com,Finance,Financial Analyst,Debra Pratt,Contract,Active,2025-04-12,,1,,Active / Unknown,0-1 Year
+414,William Ramirez,employee414@uptime-solutions.com,Operations,Operations Manager,Jill Romero,Part-Time,Active,2025-06-16,,1,,Active / Unknown,0-1 Year
+416,Christine Spencer,employee416@uptime-solutions.com,Finance,Financial Analyst,Jill Romero,Temporary,Active,2025-03-11,,1,,Active / Unknown,0-1 Year
+417,Donald Lopez,employee417@uptime-solutions.com,Information Technology,Software Developer,Michael Shaffer,Contract,Active,2022-01-17,,4,,Active / Unknown,4-5 Years
+419,Keith Little,employee419@uptime-solutions.com,Sales,Sales Representative,Karen Richardson,Temporary,Active,2022-02-23,,4,,Active / Unknown,4-5 Years
+420,Sophia Hendricks,employee420@uptime-solutions.com,Finance,Financial Analyst,Karen Richardson,Part-Time,Active,2025-06-28,,1,,Active / Unknown,0-1 Year
+423,Walter Collins,employee423@uptime-solutions.com,Operations,Operations Manager,Benjamin Cole,Temporary,Active,2020-03-21,,6,,Active / Unknown,6+ Years
+424,Janet Douglas,employee424@uptime-solutions.com,Operations,Field Technician,Nicole Smith,Full-Time,Active,2020-03-12,,6,,Active / Unknown,6+ Years
+425,John Perez,employee425@uptime-solutions.com,Sales,Sales Representative,Mark Baker,Contract,Active,2021-10-05,,4,,Active / Unknown,4-5 Years
+428,Margaret Sullivan,employee428@uptime-solutions.com,Human Resources,HR Specialist,Travis Wheeler,Temporary,Active,2022-11-11,,3,,Active / Unknown,2-3 Years
+431,Danielle Dixon,employee431@uptime-solutions.com,Human Resources,HR Specialist,Richard Dudley,Full-Time,Active,2021-10-04,,4,,Active / Unknown,4-5 Years
+432,Taylor Harrison,employee432@uptime-solutions.com,Operations,Field Technician,Wesley Lloyd,Full-Time,Active,2022-11-19,,3,,Active / Unknown,2-3 Years
+433,Stephanie Powell,employee433@uptime-solutions.com,Sales,Sales Representative,Benjamin Cole,Part-Time,Active,2022-04-04,,4,,Active / Unknown,4-5 Years
+443,Christy Fuller,employee443@uptime-solutions.com,Sales,Sales Representative,Amy Love,Temporary,Active,2023-01-03,,3,,Active / Unknown,2-3 Years
+454,Stephanie Espinoza,employee454@uptime-solutions.com,Information Technology,Data Analyst,Debra Pratt,Temporary,Active,2022-07-03,,4,,Active / Unknown,4-5 Years
+458,Nathan Vance,employee458@uptime-solutions.com,Information Technology,Data Analyst,Nicole Smith,Part-Time,Active,2022-12-01,,3,,Active / Unknown,2-3 Years
+461,Valerie Sanders,employee461@uptime-solutions.com,Information Technology,Software Developer,Tricia Stephens,Part-Time,Active,2022-06-02,,4,,Active / Unknown,4-5 Years
+462,Kelly Ortiz,employee462@uptime-solutions.com,Information Technology,Data Analyst,Alicia Fisher,Contract,Active,2021-10-29,,4,,Active / Unknown,4-5 Years
+465,Manuel Griffith,employee465@uptime-solutions.com,Finance,Financial Analyst,Richard Dudley,Full-Time,Active,2021-12-30,,4,,Active / Unknown,4-5 Years
+466,Robert Owen,employee466@uptime-solutions.com,Finance,Financial Analyst,Jenny Cook,Full-Time,Active,2020-08-04,,6,,Active / Unknown,6+ Years
+467,Paul Salinas,employee467@uptime-solutions.com,Operations,Operations Manager,Amy Love,Contract,Active,2022-01-05,,4,,Active / Unknown,4-5 Years
+470,Lauren Watson,employee470@uptime-solutions.com,Human Resources,HR Specialist,Kevin Miller,Temporary,Active,2022-11-15,,3,,Active / Unknown,2-3 Years
+479,Brian Marshall,employee479@uptime-solutions.com,Sales,Sales Representative,Jenny Cook,Part-Time,Active,2023-02-24,,3,,Active / Unknown,2-3 Years
+480,Tonya Leon,employee480@uptime-solutions.com,Finance,Financial Analyst,Wesley Lloyd,Contract,Active,2022-01-31,,4,,Active / Unknown,4-5 Years
+487,Janice Ware,employee487@uptime-solutions.com,Human Resources,HR Specialist,Michael Shaffer,Contract,Active,2020-08-24,,6,,Active / Unknown,6+ Years
+488,Jacqueline Murphy,employee488@uptime-solutions.com,Operations,Operations Manager,Amy Love,Full-Time,Active,2022-12-02,,3,,Active / Unknown,2-3 Years
+493,Jonathan Gonzalez,employee493@uptime-solutions.com,Information Technology,Data Analyst,Wesley Lloyd,Contract,Active,2024-12-19,,1,,Active / Unknown,0-1 Year
+494,Michelle Charles,employee494@uptime-solutions.com,Finance,Financial Analyst,Michael Shaffer,Full-Time,Active,2024-11-09,,1,,Active / Unknown,0-1 Year
+495,Keith Stewart,employee495@uptime-solutions.com,Sales,Sales Representative,Jenny Cook,Full-Time,Active,2023-03-12,,3,,Active / Unknown,2-3 Years
+11,Melissa Harris,employee11@uptime-solutions.com,Information Technology,Data Analyst,No Manager,Contract,Active,2020-09-05,,5,,Active / Unknown,4-5 Years
+13,Nicole Smith,employee13@uptime-solutions.com,Human Resources,HR Specialist,No Manager,Full-Time,Active,2020-10-15,,5,,Active / Unknown,4-5 Years
+28,Victor Roth,employee28@uptime-solutions.com,Operations,Field Technician,Debra Pratt,Contract,Active,2021-02-10,,5,,Active / Unknown,4-5 Years
+43,Philip Marshall,employee43@uptime-solutions.com,Information Technology,Software Developer,Michael Shaffer,Part-Time,Active,2020-12-16,,5,,Active / Unknown,4-5 Years
+44,Donald Lawrence,employee44@uptime-solutions.com,Human Resources,HR Specialist,Mark Baker,Contract,Active,2021-09-03,,5,,Active / Unknown,4-5 Years
+45,Tony Hess,employee45@uptime-solutions.com,Operations,Field Technician,Richard Dudley,Full-Time,Active,2021-04-24,,5,,Active / Unknown,4-5 Years
+64,Steven White,employee64@uptime-solutions.com,Information Technology,Software Developer,Benjamin Cole,Full-Time,Active,2021-08-23,,5,,Active / Unknown,4-5 Years
+73,Mike Henry,employee73@uptime-solutions.com,Sales,Sales Representative,Debra Pratt,Contract,Active,2021-05-23,,5,,Active / Unknown,4-5 Years
+88,Travis Sloan,employee88@uptime-solutions.com,Human Resources,HR Specialist,Wesley Lloyd,Part-Time,Active,2021-01-01,,5,,Active / Unknown,4-5 Years
+96,Courtney Martin,employee96@uptime-solutions.com,Information Technology,Software Developer,Melissa Harris,Full-Time,Active,2021-02-21,,5,,Active / Unknown,4-5 Years
+113,Ellen Bailey,employee113@uptime-solutions.com,Information Technology,Software Developer,Amy Love,Temporary,Active,2020-09-12,,5,,Active / Unknown,4-5 Years
+119,Tamara Gould,employee119@uptime-solutions.com,Information Technology,Data Analyst,Travis Wheeler,Part-Time,Active,2021-02-06,,5,,Active / Unknown,4-5 Years
+136,Aaron Kim,employee136@uptime-solutions.com,Human Resources,HR Specialist,Jill Romero,Contract,Active,2021-03-17,,5,,Active / Unknown,4-5 Years
+142,Kimberly Bradley,employee142@uptime-solutions.com,Sales,Sales Representative,Nicole Smith,Contract,Active,2021-04-30,,5,,Active / Unknown,4-5 Years
+163,Tammy Gay,employee163@uptime-solutions.com,Sales,Sales Representative,Melissa Harris,Part-Time,Active,2020-11-13,,5,,Active / Unknown,4-5 Years
+167,Christopher Vance,employee167@uptime-solutions.com,Finance,Financial Analyst,Benjamin Cole,Contract,Active,2020-09-17,,5,,Active / Unknown,4-5 Years
+178,Michelle Brewer,employee178@uptime-solutions.com,Finance,Financial Analyst,Tricia Stephens,Temporary,Active,2021-04-03,,5,,Active / Unknown,4-5 Years
+181,Gregory Davis,employee181@uptime-solutions.com,Operations,Operations Manager,Joseph Archer,Part-Time,Active,2020-11-26,,5,,Active / Unknown,4-5 Years
+188,Christopher Wallace,employee188@uptime-solutions.com,Finance,Financial Analyst,Jenny Cook,Temporary,Active,2021-03-23,,5,,Active / Unknown,4-5 Years
+195,Danielle Price,employee195@uptime-solutions.com,Sales,Sales Representative,Kevin Miller,Part-Time,Active,2021-06-26,,5,,Active / Unknown,4-5 Years
+207,Heather Williams,employee207@uptime-solutions.com,Operations,Operations Manager,Alicia Fisher,Part-Time,Active,2021-07-01,,5,,Active / Unknown,4-5 Years
+213,Joshua Thomas,employee213@uptime-solutions.com,Information Technology,Data Analyst,Joseph Archer,Contract,Active,2021-07-22,,5,,Active / Unknown,4-5 Years
+218,Melissa Davis,employee218@uptime-solutions.com,Operations,Operations Manager,Tricia Stephens,Full-Time,Active,2020-09-06,,5,,Active / Unknown,4-5 Years
+224,Sara Jackson,employee224@uptime-solutions.com,Operations,Field Technician,Mark Baker,Part-Time,Active,2021-04-30,,5,,Active / Unknown,4-5 Years
+235,Tracy Guzman,employee235@uptime-solutions.com,Information Technology,Data Analyst,Amy Love,Contract,Active,2021-07-07,,5,,Active / Unknown,4-5 Years
+236,David Sanchez,employee236@uptime-solutions.com,Information Technology,Data Analyst,Paul Thompson,Contract,Active,2021-05-02,,5,,Active / Unknown,4-5 Years
+241,Gregory Morgan,employee241@uptime-solutions.com,Human Resources,HR Specialist,Ian Lyons,Temporary,Active,2021-08-22,,5,,Active / Unknown,4-5 Years
+243,Donald Mclaughlin,employee243@uptime-solutions.com,Finance,Financial Analyst,Nicole Smith,Part-Time,Active,2020-11-30,,5,,Active / Unknown,4-5 Years
+251,Michael Smith,employee251@uptime-solutions.com,Human Resources,HR Specialist,Melissa Harris,Contract,Active,2021-06-02,,5,,Active / Unknown,4-5 Years
+269,Savannah Rodriguez,employee269@uptime-solutions.com,Human Resources,HR Specialist,Alicia Fisher,Full-Time,Active,2020-10-10,,5,,Active / Unknown,4-5 Years
+279,Jill Johnson,employee279@uptime-solutions.com,Information Technology,Data Analyst,Tricia Stephens,Contract,Active,2021-03-30,,5,,Active / Unknown,4-5 Years
+282,Andrew Gutierrez,employee282@uptime-solutions.com,Information Technology,Data Analyst,Michael Shaffer,Full-Time,Active,2020-12-15,,5,,Active / Unknown,4-5 Years
+291,Linda Patterson,employee291@uptime-solutions.com,Human Resources,HR Specialist,Jill Romero,Part-Time,Active,2021-08-08,,5,,Active / Unknown,4-5 Years
+298,Robert Fisher,employee298@uptime-solutions.com,Operations,Operations Manager,Paul Thompson,Temporary,Active,2021-07-16,,5,,Active / Unknown,4-5 Years
+300,Kevin Becker,employee300@uptime-solutions.com,Finance,Financial Analyst,Alicia Fisher,Temporary,Active,2021-04-16,,5,,Active / Unknown,4-5 Years
+330,Carol Williamson,employee330@uptime-solutions.com,Operations,Operations Manager,Ian Lyons,Full-Time,Active,2021-07-21,,5,,Active / Unknown,4-5 Years
+337,Emma Bennett,employee337@uptime-solutions.com,Information Technology,Software Developer,Paul Thompson,Contract,Active,2021-07-03,,5,,Active / Unknown,4-5 Years
+340,Jessica Black,employee340@uptime-solutions.com,Sales,Sales Representative,Joseph Archer,Contract,Active,2020-12-08,,5,,Active / Unknown,4-5 Years
+361,Amber Smith,employee361@uptime-solutions.com,Human Resources,HR Specialist,Wesley Lloyd,Temporary,Active,2020-12-03,,5,,Active / Unknown,4-5 Years
+368,Andre Morrison,employee368@uptime-solutions.com,Information Technology,Software Developer,Benjamin Cole,Part-Time,Active,2021-03-27,,5,,Active / Unknown,4-5 Years
+386,Michael Olsen,employee386@uptime-solutions.com,Finance,Financial Analyst,Melissa Harris,Part-Time,Active,2020-11-15,,5,,Active / Unknown,4-5 Years
+387,Wendy Acevedo,employee387@uptime-solutions.com,Operations,Field Technician,Nicole Smith,Temporary,Active,2021-04-05,,5,,Active / Unknown,4-5 Years
+391,Craig Perez,employee391@uptime-solutions.com,Information Technology,Software Developer,Jenny Cook,Part-Time,Active,2021-02-27,,5,,Active / Unknown,4-5 Years
+404,Ethan Hodges,employee404@uptime-solutions.com,Human Resources,HR Specialist,Wesley Lloyd,Contract,Active,2021-08-15,,5,,Active / Unknown,4-5 Years
+409,Todd Murray,employee409@uptime-solutions.com,Finance,Financial Analyst,Richard Dudley,Full-Time,Active,2020-12-12,,5,,Active / Unknown,4-5 Years
+412,Kenneth Smith,employee412@uptime-solutions.com,Sales,Sales Representative,Tricia Stephens,Temporary,Active,2020-12-21,,5,,Active / Unknown,4-5 Years
+436,Heather Gordon,employee436@uptime-solutions.com,Operations,Field Technician,Kevin Miller,Temporary,Active,2021-02-09,,5,,Active / Unknown,4-5 Years
+440,Laura Cobb,employee440@uptime-solutions.com,Operations,Field Technician,Jenny Cook,Temporary,Active,2021-05-12,,5,,Active / Unknown,4-5 Years
+441,Daniel Winters,employee441@uptime-solutions.com,Information Technology,Data Analyst,Tricia Stephens,Temporary,Active,2021-04-26,,5,,Active / Unknown,4-5 Years
+468,Lisa Webb,employee468@uptime-solutions.com,Human Resources,HR Specialist,Paul Thompson,Part-Time,Active,2021-01-04,,5,,Active / Unknown,4-5 Years
+472,Jeffrey Sawyer,employee472@uptime-solutions.com,Sales,Sales Representative,Amy Love,Full-Time,Active,2020-12-27,,5,,Active / Unknown,4-5 Years
+474,Kendra Torres,employee474@uptime-solutions.com,Information Technology,Software Developer,Michael Shaffer,Full-Time,Active,2020-12-28,,5,,Active / Unknown,4-5 Years
+499,Brett Khan,employee499@uptime-solutions.com,Sales,Sales Representative,Mark Baker,Temporary,Active,2021-08-01,,5,,Active / Unknown,4-5 Years
+500,Ryan Ferrell,employee500@uptime-solutions.com,Information Technology,Data Analyst,Debra Pratt,Temporary,Active,2020-12-29,,5,,Active / Unknown,4-5 Years
+51,Samantha Neal,employee51@uptime-solutions.com,Human Resources,HR Specialist,Benjamin Cole,Temporary,Active,2024-03-09,,2,,Active / Unknown,2-3 Years
+81,Ronald Dunlap,employee81@uptime-solutions.com,Finance,Financial Analyst,Brenda Odom,Temporary,Active,2024-06-12,,2,,Active / Unknown,2-3 Years
+99,Sharon Johnson,employee99@uptime-solutions.com,Information Technology,Software Developer,Nicole Smith,Temporary,Active,2024-08-23,,2,,Active / Unknown,2-3 Years
+123,Kelsey Heath,employee123@uptime-solutions.com,Operations,Operations Manager,Travis Wheeler,Temporary,Active,2023-11-05,,2,,Active / Unknown,2-3 Years
+139,Danielle Wagner,employee139@uptime-solutions.com,Sales,Sales Representative,Travis Wheeler,Temporary,Active,2024-07-07,,2,,Active / Unknown,2-3 Years
+143,Alexandra Weaver,employee143@uptime-solutions.com,Finance,Financial Analyst,Joseph Archer,Temporary,Active,2023-11-18,,2,,Active / Unknown,2-3 Years
+215,Kyle Montoya,employee215@uptime-solutions.com,Sales,Sales Representative,Alicia Fisher,Temporary,Active,2023-12-12,,2,,Active / Unknown,2-3 Years
+273,Tyler Castillo,employee273@uptime-solutions.com,Sales,Sales Representative,Kevin Miller,Temporary,Active,2023-10-31,,2,,Active / Unknown,2-3 Years
+317,Walter Steele,employee317@uptime-solutions.com,Finance,Financial Analyst,Jenny Cook,Temporary,Active,2024-03-05,,2,,Active / Unknown,2-3 Years
+332,Jason Williams,employee332@uptime-solutions.com,Information Technology,Data Analyst,Amy Love,Temporary,Active,2024-06-18,,2,,Active / Unknown,2-3 Years
+341,Rebecca Pierce,employee341@uptime-solutions.com,Information Technology,Software Developer,Paul Thompson,Temporary,Active,2024-04-23,,2,,Active / Unknown,2-3 Years
+369,Amanda Rodriguez,employee369@uptime-solutions.com,Sales,Sales Representative,Debra Pratt,Temporary,Active,2024-05-25,,2,,Active / Unknown,2-3 Years
+380,Donna Santiago,employee380@uptime-solutions.com,Operations,Operations Manager,Ian Lyons,Temporary,Active,2024-06-15,,2,,Active / Unknown,2-3 Years
+429,Stephen Allen,employee429@uptime-solutions.com,Operations,Field Technician,Jenny Cook,Temporary,Active,2023-11-28,,2,,Active / Unknown,2-3 Years
+438,Traci Mcdaniel,employee438@uptime-solutions.com,Operations,Field Technician,Tricia Stephens,Temporary,Active,2023-12-28,,2,,Active / Unknown,2-3 Years
+446,Katherine Davis,employee446@uptime-solutions.com,Finance,Financial Analyst,Debra Pratt,Temporary,Active,2023-10-15,,2,,Active / Unknown,2-3 Years
+447,Matthew Bautista,employee447@uptime-solutions.com,Human Resources,HR Specialist,Alicia Fisher,Temporary,Active,2024-07-07,,2,,Active / Unknown,2-3 Years
+473,Michael Gill,employee473@uptime-solutions.com,Operations,Operations Manager,Debra Pratt,Temporary,Active,2024-03-28,,2,,Active / Unknown,2-3 Years
+490,Gloria Maldonado,employee490@uptime-solutions.com,Information Technology,Data Analyst,Kevin Miller,Temporary,Active,2024-08-06,,2,,Active / Unknown,2-3 Years
+24,Tracie Jones,employee24@uptime-solutions.com,Finance,Financial Analyst,Amy Love,Full-Time,Active,2024-08-13,,2,,Active / Unknown,2-3 Years
+68,Cindy Coleman,employee68@uptime-solutions.com,Sales,Sales Representative,Richard Dudley,Full-Time,Active,2024-02-27,,2,,Active / Unknown,2-3 Years
+71,Jocelyn Walker,employee71@uptime-solutions.com,Information Technology,Software Developer,Melissa Harris,Full-Time,Active,2023-09-17,,2,,Active / Unknown,2-3 Years
+84,Raymond Santos,employee84@uptime-solutions.com,Operations,Field Technician,Wesley Lloyd,Full-Time,Active,2024-05-25,,2,,Active / Unknown,2-3 Years
+106,Thomas Gibson,employee106@uptime-solutions.com,Operations,Field Technician,Travis Wheeler,Full-Time,Active,2024-02-25,,2,,Active / Unknown,2-3 Years
+109,Aaron Oneal,employee109@uptime-solutions.com,Sales,Sales Representative,Brenda Odom,Full-Time,Active,2024-06-22,,2,,Active / Unknown,2-3 Years
+196,Melissa Allen,employee196@uptime-solutions.com,Human Resources,HR Specialist,Travis Wheeler,Full-Time,Active,2024-06-07,,2,,Active / Unknown,2-3 Years
+204,Jonathan Gibson,employee204@uptime-solutions.com,Finance,Financial Analyst,Debra Pratt,Full-Time,Active,2024-03-31,,2,,Active / Unknown,2-3 Years
+229,Oscar English,employee229@uptime-solutions.com,Operations,Operations Manager,Alicia Fisher,Full-Time,Active,2023-12-11,,2,,Active / Unknown,2-3 Years
+257,Steven Santos,employee257@uptime-solutions.com,Operations,Operations Manager,Nicole Smith,Full-Time,Active,2024-01-02,,2,,Active / Unknown,2-3 Years
+288,Kenneth Cervantes,employee288@uptime-solutions.com,Information Technology,Data Analyst,Tricia Stephens,Full-Time,Active,2024-07-03,,2,,Active / Unknown,2-3 Years
+319,Michael Bush,employee319@uptime-solutions.com,Human Resources,HR Specialist,Brenda Odom,Full-Time,Active,2024-07-09,,2,,Active / Unknown,2-3 Years
+351,Jared Tate,employee351@uptime-solutions.com,Finance,Financial Analyst,Jill Romero,Full-Time,Active,2024-04-24,,2,,Active / Unknown,2-3 Years
+366,Natalie Jones,employee366@uptime-solutions.com,Human Resources,HR Specialist,Alicia Fisher,Full-Time,Active,2023-12-11,,2,,Active / Unknown,2-3 Years
+426,Kenneth Clark,employee426@uptime-solutions.com,Operations,Field Technician,Amy Love,Full-Time,Active,2024-07-05,,2,,Active / Unknown,2-3 Years
+427,Thomas Davis,employee427@uptime-solutions.com,Operations,Field Technician,Amy Love,Full-Time,Active,2024-06-04,,2,,Active / Unknown,2-3 Years
+477,Diamond Garcia,employee477@uptime-solutions.com,Finance,Financial Analyst,Travis Wheeler,Full-Time,Active,2023-11-05,,2,,Active / Unknown,2-3 Years
+79,Ashley Ramirez,employee79@uptime-solutions.com,Finance,Financial Analyst,Alicia Fisher,Part-Time,Active,2023-10-04,,2,,Active / Unknown,2-3 Years
+128,Deborah Lane,employee128@uptime-solutions.com,Information Technology,Software Developer,Richard Dudley,Contract,Active,2024-02-12,,2,,Active / Unknown,2-3 Years
+131,Paula Wood,employee131@uptime-solutions.com,Sales,Sales Representative,Jenny Cook,Contract,Active,2024-06-28,,2,,Active / Unknown,2-3 Years
+144,John Buchanan,employee144@uptime-solutions.com,Operations,Field Technician,Benjamin Cole,Part-Time,Active,2024-08-14,,2,,Active / Unknown,2-3 Years
+147,Kimberly Curry,employee147@uptime-solutions.com,Human Resources,HR Specialist,Karen Richardson,Part-Time,Active,2023-10-23,,2,,Active / Unknown,2-3 Years
+152,Kenneth Henderson,employee152@uptime-solutions.com,Operations,Operations Manager,Tricia Stephens,Part-Time,Active,2024-05-08,,2,,Active / Unknown,2-3 Years
+160,Anna Ali,employee160@uptime-solutions.com,Sales,Sales Representative,Amy Love,Contract,Active,2024-06-17,,2,,Active / Unknown,2-3 Years
+161,Kim Anderson,employee161@uptime-solutions.com,Human Resources,HR Specialist,Ian Lyons,Part-Time,Active,2024-06-08,,2,,Active / Unknown,2-3 Years
+198,David Martinez,employee198@uptime-solutions.com,Finance,Financial Analyst,Nicole Smith,Part-Time,Active,2024-04-05,,2,,Active / Unknown,2-3 Years
+231,Jonathan Randall,employee231@uptime-solutions.com,Sales,Sales Representative,Debra Pratt,Contract,Active,2024-04-06,,2,,Active / Unknown,2-3 Years
+249,Meghan Williams,employee249@uptime-solutions.com,Finance,Financial Analyst,Richard Dudley,Contract,Active,2024-07-22,,2,,Active / Unknown,2-3 Years
+277,Amy Higgins,employee277@uptime-solutions.com,Sales,Sales Representative,Ian Lyons,Part-Time,Active,2023-10-13,,2,,Active / Unknown,2-3 Years
+281,Justin Long,employee281@uptime-solutions.com,Information Technology,Data Analyst,Wesley Lloyd,Part-Time,Active,2024-09-04,,2,,Active / Unknown,2-3 Years
+285,Thomas Washington,employee285@uptime-solutions.com,Finance,Financial Analyst,Jenny Cook,Part-Time,Active,2024-07-17,,2,,Active / Unknown,2-3 Years
+286,Sandra Wilson,employee286@uptime-solutions.com,Human Resources,HR Specialist,Paul Thompson,Part-Time,Active,2023-09-29,,2,,Active / Unknown,2-3 Years
+301,Scott Soto,employee301@uptime-solutions.com,Human Resources,HR Specialist,Jenny Cook,Part-Time,Active,2024-04-04,,2,,Active / Unknown,2-3 Years
+309,Maxwell Soto,employee309@uptime-solutions.com,Operations,Field Technician,Ian Lyons,Contract,Active,2023-10-13,,2,,Active / Unknown,2-3 Years
+320,Roy Pollard,employee320@uptime-solutions.com,Human Resources,HR Specialist,Mark Baker,Part-Time,Active,2024-07-23,,2,,Active / Unknown,2-3 Years
+346,Joy Mcintyre,employee346@uptime-solutions.com,Operations,Operations Manager,Travis Wheeler,Contract,Active,2024-05-23,,2,,Active / Unknown,2-3 Years
+370,Shane Long,employee370@uptime-solutions.com,Sales,Sales Representative,Paul Thompson,Contract,Active,2024-04-15,,2,,Active / Unknown,2-3 Years
+373,Casey Reeves,employee373@uptime-solutions.com,Finance,Financial Analyst,Richard Dudley,Part-Time,Active,2023-10-12,,2,,Active / Unknown,2-3 Years
+392,Lisa Dunn,employee392@uptime-solutions.com,Information Technology,Data Analyst,Ian Lyons,Part-Time,Active,2023-10-12,,2,,Active / Unknown,2-3 Years
+411,Jennifer Nicholson,employee411@uptime-solutions.com,Human Resources,HR Specialist,Benjamin Cole,Contract,Active,2023-11-24,,2,,Active / Unknown,2-3 Years
+444,Mary Taylor,employee444@uptime-solutions.com,Operations,Operations Manager,Alicia Fisher,Contract,Active,2024-02-15,,2,,Active / Unknown,2-3 Years
+471,Sara Chambers,employee471@uptime-solutions.com,Information Technology,Software Developer,Kevin Miller,Contract,Active,2024-07-15,,2,,Active / Unknown,2-3 Years
+475,Justin Knox,employee475@uptime-solutions.com,Information Technology,Data Analyst,Nicole Smith,Contract,Active,2024-08-15,,2,,Active / Unknown,2-3 Years
+481,Heather Bonilla,employee481@uptime-solutions.com,Information Technology,Data Analyst,Amy Love,Part-Time,Active,2024-02-10,,2,,Active / Unknown,2-3 Years
+30,Teresa James,employee30@uptime-solutions.com,Operations,Operations Manager,Brenda Odom,Full-Time,Active,2025-09-17,,0,,Active / Unknown,0-1 Year
+93,Denise Pruitt,employee93@uptime-solutions.com,Operations,Operations Manager,Paul Thompson,Temporary,Active,2026-03-10,,0,,Active / Unknown,0-1 Year
+184,Benjamin Cox,employee184@uptime-solutions.com,Operations,Operations Manager,Nicole Smith,Part-Time,Active,2025-11-01,,0,,Active / Unknown,0-1 Year
+197,Michael Bennett,employee197@uptime-solutions.com,Operations,Operations Manager,Paul Thompson,Part-Time,Active,2026-07-26,,0,,Active / Unknown,0-1 Year
+270,Angela Lynch,employee270@uptime-solutions.com,Operations,Operations Manager,Paul Thompson,Part-Time,Active,2026-05-31,,0,,Active / Unknown,0-1 Year
+314,David Thompson,employee314@uptime-solutions.com,Operations,Operations Manager,Kevin Miller,Contract,Active,2026-11-17,,0,,Active / Unknown,0-1 Year
+327,Misty Bailey,employee327@uptime-solutions.com,Operations,Operations Manager,Tricia Stephens,Full-Time,Active,2026-11-26,,0,,Active / Unknown,0-1 Year
+408,Francisco Norris,employee408@uptime-solutions.com,Operations,Operations Manager,Ian Lyons,Full-Time,Active,2025-12-24,,0,,Active / Unknown,0-1 Year
+460,Matthew Jackson,employee460@uptime-solutions.com,Operations,Operations Manager,Melissa Harris,Contract,Active,2026-10-02,,0,,Active / Unknown,0-1 Year
+482,Jordan Brooks,employee482@uptime-solutions.com,Operations,Operations Manager,Benjamin Cole,Full-Time,Active,2026-05-10,,0,,Active / Unknown,0-1 Year
+498,Catherine Wagner,employee498@uptime-solutions.com,Operations,Operations Manager,Michael Shaffer,Part-Time,Active,2026-11-07,,0,,Active / Unknown,0-1 Year
+25,Desiree Medina,employee25@uptime-solutions.com,Sales,Sales Representative,Nicole Smith,Full-Time,Active,2026-04-19,,0,,Active / Unknown,0-1 Year
+26,Alicia Dorsey,employee26@uptime-solutions.com,Operations,Field Technician,Benjamin Cole,Temporary,Active,2026-11-10,,0,,Active / Unknown,0-1 Year
+74,Joanne Dodson,employee74@uptime-solutions.com,Sales,Sales Representative,Melissa Harris,Contract,Active,2026-04-14,,0,,Active / Unknown,0-1 Year
+103,Derek Martinez,employee103@uptime-solutions.com,Sales,Sales Representative,Joseph Archer,Full-Time,Active,2025-11-22,,0,,Active / Unknown,0-1 Year
+208,Crystal Smith,employee208@uptime-solutions.com,Sales,Sales Representative,Debra Pratt,Full-Time,Active,2026-08-27,,0,,Active / Unknown,0-1 Year
+212,Brian Hart,employee212@uptime-solutions.com,Operations,Field Technician,Amy Love,Part-Time,Active,2025-09-20,,0,,Active / Unknown,0-1 Year
+255,Jerome Acevedo,employee255@uptime-solutions.com,Sales,Sales Representative,Richard Dudley,Contract,Active,2026-02-15,,0,,Active / Unknown,0-1 Year
+268,Megan Hernandez,employee268@uptime-solutions.com,Sales,Sales Representative,Brenda Odom,Full-Time,Active,2026-04-02,,0,,Active / Unknown,0-1 Year
+390,Robin Nelson,employee390@uptime-solutions.com,Sales,Sales Representative,Kevin Miller,Part-Time,Active,2026-03-03,,0,,Active / Unknown,0-1 Year
+463,Matthew Lynn,employee463@uptime-solutions.com,Sales,Sales Representative,Alicia Fisher,Contract,Active,2026-10-28,,0,,Active / Unknown,0-1 Year
+485,Lisa Nguyen,employee485@uptime-solutions.com,Sales,Sales Representative,Jenny Cook,Contract,Active,2026-11-16,,0,,Active / Unknown,0-1 Year
+40,Ashley Brown,employee40@uptime-solutions.com,Human Resources,HR Specialist,Richard Dudley,Contract,Active,2026-03-08,,0,,Active / Unknown,0-1 Year
+72,Tim Cook,employee72@uptime-solutions.com,Human Resources,HR Specialist,Michael Shaffer,Full-Time,Active,2026-07-22,,0,,Active / Unknown,0-1 Year
+132,Anthony Shelton,employee132@uptime-solutions.com,Human Resources,HR Specialist,Jill Romero,Part-Time,Active,2026-01-22,,0,,Active / Unknown,0-1 Year
+187,Joshua Thompson,employee187@uptime-solutions.com,Human Resources,HR Specialist,Alicia Fisher,Part-Time,Active,2025-10-04,,0,,Active / Unknown,0-1 Year
+193,Amanda Jordan,employee193@uptime-solutions.com,Human Resources,HR Specialist,Brenda Odom,Part-Time,Active,2026-02-25,,0,,Active / Unknown,0-1 Year
+248,Juan Melton,employee248@uptime-solutions.com,Human Resources,HR Specialist,Jill Romero,Contract,Active,2026-04-02,,0,,Active / Unknown,0-1 Year
+260,Jeremy Cooper,employee260@uptime-solutions.com,Human Resources,HR Specialist,Jenny Cook,Contract,Active,2025-10-19,,0,,Active / Unknown,0-1 Year
+262,Carol Cook,employee262@uptime-solutions.com,Human Resources,HR Specialist,Paul Thompson,Part-Time,Active,2025-11-22,,0,,Active / Unknown,0-1 Year
+328,Erica Parker,employee328@uptime-solutions.com,Human Resources,HR Specialist,Jenny Cook,Part-Time,Active,2025-09-08,,0,,Active / Unknown,0-1 Year
+355,Roy Cross,employee355@uptime-solutions.com,Human Resources,HR Specialist,Paul Thompson,Part-Time,Active,2026-06-30,,0,,Active / Unknown,0-1 Year
+382,Brooke Harper,employee382@uptime-solutions.com,Human Resources,HR Specialist,Amy Love,Temporary,Active,2026-04-07,,0,,Active / Unknown,0-1 Year
+445,Sally Johnson,employee445@uptime-solutions.com,Human Resources,HR Specialist,Michael Shaffer,Full-Time,Active,2025-12-15,,0,,Active / Unknown,0-1 Year
+450,Timothy Wise,employee450@uptime-solutions.com,Human Resources,HR Specialist,Karen Richardson,Temporary,Active,2025-10-01,,0,,Active / Unknown,0-1 Year
+452,Tyler Mccarthy,employee452@uptime-solutions.com,Human Resources,HR Specialist,Mark Baker,Part-Time,Active,2026-06-25,,0,,Active / Unknown,0-1 Year
+492,Kathleen Randolph,employee492@uptime-solutions.com,Human Resources,HR Specialist,Wesley Lloyd,Contract,Active,2025-09-19,,0,,Active / Unknown,0-1 Year
+101,William Oconnor,employee101@uptime-solutions.com,Information Technology,Software Developer,Amy Love,Part-Time,Active,2026-10-05,,0,,Active / Unknown,0-1 Year
+102,Andrew Hamilton,employee102@uptime-solutions.com,Information Technology,Software Developer,Ian Lyons,Contract,Active,2026-06-21,,0,,Active / Unknown,0-1 Year
+130,Stephanie Murphy,employee130@uptime-solutions.com,Information Technology,Software Developer,Mark Baker,Full-Time,Active,2026-09-14,,0,,Active / Unknown,0-1 Year
+245,William Mcclure,employee245@uptime-solutions.com,Information Technology,Software Developer,Kevin Miller,Temporary,Active,2026-06-06,,0,,Active / Unknown,0-1 Year
+294,Larry Evans,employee294@uptime-solutions.com,Information Technology,Software Developer,Joseph Archer,Temporary,Active,2026-06-22,,0,,Active / Unknown,0-1 Year
+336,Colton Jones,employee336@uptime-solutions.com,Information Technology,Software Developer,Kevin Miller,Temporary,Active,2026-08-01,,0,,Active / Unknown,0-1 Year
+358,Jessica Hester,employee358@uptime-solutions.com,Information Technology,Software Developer,Paul Thompson,Contract,Active,2025-09-29,,0,,Active / Unknown,0-1 Year
+94,Lisa Marsh,employee94@uptime-solutions.com,Information Technology,Data Analyst,Paul Thompson,Full-Time,Active,2026-12-31,,0,,Active / Unknown,0-1 Year
+97,Michael Henry,employee97@uptime-solutions.com,Information Technology,Data Analyst,Mark Baker,Part-Time,Active,2026-01-13,,0,,Active / Unknown,0-1 Year
+98,Jeff Hart,employee98@uptime-solutions.com,Information Technology,Data Analyst,Richard Dudley,Part-Time,Active,2025-09-08,,0,,Active / Unknown,0-1 Year
+116,Nicole Brown,employee116@uptime-solutions.com,Information Technology,Data Analyst,Wesley Lloyd,Full-Time,Active,2026-03-18,,0,,Active / Unknown,0-1 Year
+117,David Hughes,employee117@uptime-solutions.com,Information Technology,Data Analyst,Karen Richardson,Contract,Active,2026-11-28,,0,,Active / Unknown,0-1 Year
+122,Jared Holt,employee122@uptime-solutions.com,Information Technology,Data Analyst,Joseph Archer,Temporary,Active,2026-08-10,,0,,Active / Unknown,0-1 Year
+192,Brenda Brooks,employee192@uptime-solutions.com,Information Technology,Data Analyst,Debra Pratt,Full-Time,Active,2026-05-28,,0,,Active / Unknown,0-1 Year
+214,Amy Avila,employee214@uptime-solutions.com,Information Technology,Data Analyst,Michael Shaffer,Contract,Active,2026-03-17,,0,,Active / Unknown,0-1 Year
+313,George Castaneda,employee313@uptime-solutions.com,Information Technology,Data Analyst,Kevin Miller,Part-Time,Active,2026-12-08,,0,,Active / Unknown,0-1 Year
+335,Breanna Moss,employee335@uptime-solutions.com,Information Technology,Data Analyst,Amy Love,Part-Time,Active,2025-12-08,,0,,Active / Unknown,0-1 Year
+394,Ray Murphy,employee394@uptime-solutions.com,Information Technology,Data Analyst,Tricia Stephens,Contract,Active,2026-04-05,,0,,Active / Unknown,0-1 Year
+459,Jamie Serrano,employee459@uptime-solutions.com,Information Technology,Data Analyst,Joseph Archer,Part-Time,Active,2026-12-12,,0,,Active / Unknown,0-1 Year
+22,Anthony Snyder,employee22@uptime-solutions.com,Finance,Financial Analyst,Tricia Stephens,Part-Time,Active,2026-05-18,,0,,Active / Unknown,0-1 Year
+38,Terri Bright,employee38@uptime-solutions.com,Finance,Financial Analyst,Amy Love,Contract,Active,2026-07-21,,0,,Active / Unknown,0-1 Year
+69,Nicholas Hernandez,employee69@uptime-solutions.com,Finance,Financial Analyst,Joseph Archer,Full-Time,Active,2025-10-26,,0,,Active / Unknown,0-1 Year
+77,Frank Baker,employee77@uptime-solutions.com,Finance,Financial Analyst,Karen Richardson,Temporary,Active,2026-03-19,,0,,Active / Unknown,0-1 Year
+80,William Hancock,employee80@uptime-solutions.com,Finance,Financial Analyst,Richard Dudley,Contract,Active,2026-12-21,,0,,Active / Unknown,0-1 Year
+85,Lisa Young,employee85@uptime-solutions.com,Finance,Financial Analyst,Brenda Odom,Part-Time,Active,2026-09-27,,0,,Active / Unknown,0-1 Year
+91,Kevin Hall,employee91@uptime-solutions.com,Finance,Financial Analyst,Paul Thompson,Part-Time,Active,2026-11-11,,0,,Active / Unknown,0-1 Year
+111,Amy Mitchell,employee111@uptime-solutions.com,Finance,Financial Analyst,Benjamin Cole,Temporary,Active,2026-06-20,,0,,Active / Unknown,0-1 Year
+165,Ralph Barron,employee165@uptime-solutions.com,Finance,Financial Analyst,Kevin Miller,Full-Time,Active,2026-02-23,,0,,Active / Unknown,0-1 Year
+168,Tammy Macias,employee168@uptime-solutions.com,Finance,Financial Analyst,Brenda Odom,Temporary,Active,2026-10-29,,0,,Active / Unknown,0-1 Year
+206,Kaitlin Garner,employee206@uptime-solutions.com,Finance,Financial Analyst,Amy Love,Part-Time,Active,2026-10-16,,0,,Active / Unknown,0-1 Year
+216,Jeffrey Brooks,employee216@uptime-solutions.com,Finance,Financial Analyst,Mark Baker,Full-Time,Active,2026-04-01,,0,,Active / Unknown,0-1 Year
+252,Vickie Stevens,employee252@uptime-solutions.com,Finance,Financial Analyst,Michael Shaffer,Full-Time,Active,2026-06-29,,0,,Active / Unknown,0-1 Year
+284,Shirley Flores,employee284@uptime-solutions.com,Finance,Financial Analyst,Richard Dudley,Temporary,Active,2026-02-04,,0,,Active / Unknown,0-1 Year
+287,Christopher Owens,employee287@uptime-solutions.com,Finance,Financial Analyst,Wesley Lloyd,Temporary,Active,2026-04-02,,0,,Active / Unknown,0-1 Year
+402,Justin Carter,employee402@uptime-solutions.com,Finance,Financial Analyst,Karen Richardson,Contract,Active,2026-04-09,,0,,Active / Unknown,0-1 Year
+437,Wendy West,employee437@uptime-solutions.com,Finance,Financial Analyst,Amy Love,Part-Time,Active,2026-07-22,,0,,Active / Unknown,0-1 Year
+456,Tammy Freeman,employee456@uptime-solutions.com,Finance,Financial Analyst,Amy Love,Temporary,Active,2026-11-07,,0,,Active / Unknown,0-1 Year
+464,Jennifer Martin,employee464@uptime-solutions.com,Finance,Financial Analyst,Melissa Harris,Full-Time,Active,2026-07-23,,0,,Active / Unknown,0-1 Year
+497,Samuel Hutchinson,employee497@uptime-solutions.com,Finance,Financial Analyst,Kevin Miller,Temporary,Active,2026-08-04,,0,,Active / Unknown,0-1 Year

@@ -1,4 +1,4 @@
-employment_status_id,name
-1,Probation
-2,Active
-3,Terminated
+employment_status_id,Status,created_at,updated_at
+1,Probation,2026-07-26,2026-07-26
+2,Active,2026-07-26,2026-07-26
+3,Terminated,2026-07-26,2026-07-26

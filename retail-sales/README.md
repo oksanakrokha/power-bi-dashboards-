@@ -84,7 +84,7 @@ All `_CP` (Current Period) measures use `DATESBETWEEN` + `REMOVEFILTERS('dmDataT
 ## Known Data Issues
 
 | Issue | Description |
-|---|---|
+|-----|---|
 | **Red Deer — missing OpEx** | Operational expenses for Red Deer stores are not in the source data; costs appear attributed to Calgary |
 | **Inventory sell-through > 100%** | Caused by timing mismatches between purchase and sales records |
 | **Unknown Customers** | ~74% of transactions have no registered customer ID |

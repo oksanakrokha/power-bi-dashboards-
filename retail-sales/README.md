@@ -85,10 +85,13 @@ All `_CP` (Current Period) measures use `DATESBETWEEN` + `REMOVEFILTERS('dmDataT
 
 | Issue | Description |
 |---|---|
-| Red Deer — missing OpEx | Operational expenses for Red Deer stores are not in the source data; costs appear attributed to Calgary |
-| Inventory sell-through > 100% | Caused by timing mismatches between purchase and sales records |
-| Unknown Customers | ~74% of transactions have no registered customer ID |
-| Red Deer profit distortion | Absent OpEx inflates Red Deer's apparent profitability vs. Calgary |
+| **Red Deer — missing OpEx** | Operational expenses for Red Deer stores are not in the source data; costs appear attributed to Calgary |
+| **Inventory sell-through > 100%** | Caused by timing mismatches between purchase and sales records |
+| **Unknown Customers** | ~74% of transactions have no registered customer ID |
+| **Red Deer profit distortion** | Absent OpEx inflates Red Deer's apparent profitability vs. Calgary |
+| **Identical Growth Rates Explained**| Both Profit and Profit per Store metrics show the exact same +511.09% YoY growth because the total store count (12 active stores) remained constant between 2022 and 2023 |
+| **Granular Cost Anomalies**| A deep dive into the store-level hierarchy reveals that operational expenses were unevenly recorded in the source data (e.g., in 2022, all expenses for the Red Deer region were heavily allocated only to Store 1 through Store 4, while Stores 5-7 showed zero costs)|
+| **Performance Metric Choice**| Because net Profit is distorted at the individual store level due to bookkeeping methods, **Sales** and **Gross Profit %** were used as the primary KPIs to evaluate store efficiency. The data shows a remarkably stable and healthy gross margin across all 12 stores, ranging between 40% and 51%.|
 
 ---
 ## **Interactive Dashboard** 

@@ -97,16 +97,17 @@ To practice real-world data infrastructure engineering, I chose a complex archit
 📸 **Screenshots of all dashboard pages**
 
 ### 1. Workforce Overview
-<img width="12000" height="6813" alt="1  Workforce overview" src="https://github.com/user-attachments/assets/bfa3db89-bb70-488c-971d-463d4028c643" />
+<img width="12000" height="6813" alt="HR Analytics_Dashboard _ FinalV_Grey-images-0" src="https://github.com/user-attachments/assets/bb27da83-168f-43ba-b115-84e40562ce18" />
    
 ### 2. Recruitment & Hiring
-<img width="12000" height="6813" alt="2  Recruitment" src="https://github.com/user-attachments/assets/6c5c851d-5d04-43c2-851d-577acab45bcc" />
+<img width="12000" height="6813" alt="HR Analytics_Dashboard _ FinalV_Grey-images-1" src="https://github.com/user-attachments/assets/1afe069b-1ff2-4b65-bdbb-3cfdea659810" />
   
 ### 3. Attrition & Turnover
-<img width="12000" height="6813" alt="3  Attrition" src="https://github.com/user-attachments/assets/cff95f12-e29f-4d22-9601-5deebf78e762" />
+<img width="12000" height="6813" alt="HR Analytics_Dashboard _ FinalV_Grey-images-2" src="https://github.com/user-attachments/assets/a5f5a6b2-bbd3-4fb5-bfc1-8398ed9779c6" />
 
 ### 4. Employee Profile
-<img width="3000" height="2037" alt="Employee Profile" src="https://github.com/user-attachments/assets/b7edd10a-4f34-47c2-9a40-35780386ee78" />
+<img width="3000" height="2037" alt="HR Analytics_Dashboard _FinalVEmployeeProfile_Grey" src="https://github.com/user-attachments/assets/f000b02b-de1f-49f4-bb54-667517aca01a" />
+
 
 
 

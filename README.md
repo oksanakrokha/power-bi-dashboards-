@@ -101,7 +101,7 @@ All `_CP` (Current Period) measures use `DATESBETWEEN` + `REMOVEFILTERS('dmDataT
   <summary>📸 Click here to see screenshots of all dashboard pages</summary>
   
   ### 1. Executive Summary
-  [ПЕРЕТЯГНІТЬ СЮДИ С КРІНШОТ 1 СТОРІНКИ]
+  [retail-sales/preview/1. Executive Summary.png]
   
   ### 2. Sales Analysis
   [ПЕРЕТЯГНІТЬ СЮДИ СКРІНШОТ 2 СТОРІНКИ]

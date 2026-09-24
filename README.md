@@ -10,7 +10,7 @@
 
 ## Overview
 
-This Power BI dashboard was built as a portfolio project simulating a real BI engagement for **UpTime**, a Canadian sportswear retailer carrying Nike, Adidas, Puma, and Reebok across **12 stores in 3 cities** (Calgary, Edmonton, Red Deer).
+This Power BI dashboard was built as a portfolio project simulating a real BI engagement for **UpTime Company**, a Canadian sportswear retailer carrying Nike, Adidas, Puma, and Reebok across **12 stores in 3 cities** (Calgary, Edmonton, Red Deer).
 
 The dataset is synthetic and covers **January 2022 through September 30, 2024** — a deliberate cutoff that shaped the time-intelligence architecture: custom period comparisons (2023, 2024, Last 6 months, Last 3 months, Last 1 month) instead of rolling YTD-only logic.
 

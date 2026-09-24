@@ -1,0 +1,7 @@
+certification_id,certification_name,is_required
+1,Microsoft Power BI Data Analyst,True
+2,Microsoft Dynamics Fundamentals,True
+3,Workplace Safety Training,True
+4,CompTIA Network+,False
+5,Cisco CCNA,False
+6,Project Management Fundamentals,False

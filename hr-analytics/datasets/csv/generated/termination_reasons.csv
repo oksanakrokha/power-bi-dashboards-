@@ -1,0 +1,15 @@
+termination_reason_id,code,reason
+1,A,Shortage of Work / Layoff / End of Contract
+2,B,Strike or Lockout
+3,C,Return to School
+4,D,Illness or Injury
+5,E,Quit
+6,F,Maternity
+7,G,Mandatory Retirement / Workforce Reduction
+8,H,Work-Sharing
+9,J,Apprentice Training
+10,K,Other
+11,M,Dismissal
+12,N,Leave of Absence
+13,P,Parental
+14,Z,Compassionate Care / Family Caregiver

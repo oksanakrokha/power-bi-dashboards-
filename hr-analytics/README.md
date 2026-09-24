@@ -4,7 +4,7 @@
 **Client (fictional):** UpTime Solutions — Global Tech & Finance Enterprise  
 **Author:** Oksana K.  
 **Last updated:** September 2026  
-**Data range:** January 2017 – December 2026  
+**Data range:** January 2022 – December 2026  
 
 ---
 

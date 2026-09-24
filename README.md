@@ -11,4 +11,4 @@
 - Category/SKU — inventory health, turnover
 
 ## Live Report
-[View Dashboard](#) ← сюди вставиш посилання пізніше
+[View Dashboard](#) 

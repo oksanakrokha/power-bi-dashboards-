@@ -99,6 +99,7 @@ All `_CP` (Current Period) measures use `DATESBETWEEN` + `REMOVEFILTERS('dmDataT
 👉 **[Сlick here to open the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTZlMjc2NzEtNmUwYS00ZGQyLWI3NzYtYmE4ZWFmYmVlOTE3IiwidCI6ImU3MWY3MGE4LTkzMTAtNGZkNi04MzA5LTY1M2NhZDU2ZTJkNiJ9&pageName=d9888bfb9075ec439060)** *(The report opens directly in your browser, is fully interactive, and requires no Power BI licenses or sign-ins).*
 
 📸 **Screenshots of all dashboard pages**
+
 ### 1. Executive Summary
 <img width="100%" alt="1  Executive Summary" src="https://github.com/user-attachments/assets/ed308b1f-501f-4c29-8a79-c018384558e9" />
  

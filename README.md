@@ -95,8 +95,8 @@ All `_CP` (Current Period) measures use `DATESBETWEEN` + `REMOVEFILTERS('dmDataT
 
 | File | |
 |---|---|
-| `Sales_Dashboard.pbix` |👉 **[CLICK HERE TO OPEN THE INTERACTIVE DASHBOARD]([PASTE_YOUR_PUBLISH_TO_WEB_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiNTZlMjc2NzEtNmUwYS00ZGQyLWI3NzYtYmE4ZWFmYmVlOTE3IiwidCI6ImU3MWY3MGE4LTkzMTAtNGZkNi04MzA5LTY1M2NhZDU2ZTJkNiJ9))**  
+| `Sales_Dashboard.pbix` |👉 **[CLICK HERE TO OPEN THE INTERACTIVE DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNTZlMjc2NzEtNmUwYS00ZGQyLWI3NzYtYmE4ZWFmYmVlOTE3IiwidCI6ImU3MWY3MGE4LTkzMTAtNGZkNi04MzA5LTY1M2NhZDU2ZTJkNiJ9)**  
 *(The report opens directly in your browser, is fully interactive, and requires no Power BI licenses or sign-ins).*|
-| `Sales Dashboard Preview.pdf` |![Dashboard Preview]([retail-sales/Sales Dashboard Preview.pdf](https://github.com/oksanakrokha/power-bi-dashboards-/blob/f5344fc022bccc0a4f8482881c7bd78ed5713e27/retail-sales/Sales%20Dashboard%20Preview.pdf))|
+| `Sales Dashboard Preview.pdf` |![Dashboard Preview](https://github.com/oksanakrokha/power-bi-dashboards-/blob/f5344fc022bccc0a4f8482881c7bd78ed5713e27/retail-sales/Sales%20Dashboard%20Preview.pdf))|
 | `Dataset folder` |
 | `README.md` | 

@@ -92,7 +92,7 @@ To practice real-world data infrastructure engineering, I chose a complex archit
 
 ## Live Report
 
-👉 **[Сlick here to open the interactive dashboard]([https://powerbi.com](https://app.powerbi.com/view?r=eyJrIjoiZDExZTljMDEtNjg4Ny00MzM5LWE0NTQtNDcyNTdlMjI2ZDA1IiwidCI6ImU3MWY3MGE4LTkzMTAtNGZkNi04MzA5LTY1M2NhZDU2ZTJkNiJ9&pageName=b37f93a0af04d96d900e)** *(The report opens directly in your browser, is fully interactive, and requires no Power BI licenses or sign-ins).*
+👉 **[Сlick here to open the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDExZTljMDEtNjg4Ny00MzM5LWE0NTQtNDcyNTdlMjI2ZDA1IiwidCI6ImU3MWY3MGE4LTkzMTAtNGZkNi04MzA5LTY1M2NhZDU2ZTJkNiJ9&pageName=b37f93a0af04d96d900e)** *(The report opens directly in your browser, is fully interactive, and requires no Power BI licenses or sign-ins).*
 
 📸 **Screenshots of all dashboard pages**
 
